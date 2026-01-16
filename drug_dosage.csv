@@ -1,0 +1,1001 @@
+weight_kg,metabolism_rate,age,gender,liver_function,kidney_function,drug_type,administration_route,concurrent_medications,genetic_marker,food_interaction,treatment_duration_days,optimal_dosage_mg
+,0.8188355995293317,68.0,Male,Normal,Normal,Chemotherapy,Topical,5.0,Normal,None,48.0,
+,1.0448439195802404,21.0,Female,Moderate Impairment,Moderate Impairment,Antidepressant,Topical,4.0,Normal,Take on Empty Stomach,89.0,571.3964488629357
+43.92625967490508,0.7624712322409096,44.0,Female,Normal,Normal,Chemotherapy,IM,4.0,Normal,Take on Empty Stomach,52.0,527.347330999737
+119.7815062147471,0.8004157709235021,79.0,Female,Mild Impairment,Moderate Impairment,Antibiotic,Oral,2.0,Variant B,Take on Empty Stomach,75.0,521.1591990852618
+45.03017939719635,0.7547250997899373,,Male,Moderate Impairment,Moderate Impairment,Antibiotic,IM,0.0,Variant A,Take with Food,81.0,487.2606659171416
+44.862290617319346,1.1892301216838244,33.0,Male,Moderate Impairment,Mild Impairment,Chemotherapy,IV,5.0,Variant B,None,47.0,562.1215699953375
+104.24016813942048,1.2129215647120564,25.0,Female,Mild Impairment,Mild Impairment,Antibiotic,Topical,1.0,Normal,None,89.0,268.8296025266011
+45.61723773614134,,58.0,Male,Mild Impairment,Moderate Impairment,Antihypertensive,IV,0.0,Normal,Take with Food,,514.0898554120841
+76.65135147738405,1.2276881071313186,42.0,Female,Moderate Impairment,Mild Impairment,Antidepressant,Oral,0.0,Normal,Take on Empty Stomach,18.0,330.2021917151946
+96.39554103967819,1.3613552186838704,52.0,Female,Severe Impairment,Mild Impairment,Antibiotic,Oral,4.0,Normal,None,39.0,366.1246301473111
+66.58059941097946,0.8783832452880531,51.0,Female,Mild Impairment,Severe Impairment,Antibiotic,IM,0.0,Normal,Take on Empty Stomach,42.0,498.31749324912835
+93.20889751337194,1.2823176577511075,73.0,Female,Moderate Impairment,Mild Impairment,Antihypertensive,IM,5.0,Variant B,Take with Food,29.0,735.1722597840886
+116.46531602747015,0.7980345526895429,29.0,Male,Mild Impairment,Severe Impairment,Chemotherapy,IV,0.0,Normal,Take on Empty Stomach,5.0,312.5402709208051
+119.55981343828198,1.1720090967269035,34.0,Male,Normal,Severe Impairment,Antibiotic,Oral,2.0,Variant B,None,13.0,
+,1.3484650843137036,29.0,Female,Moderate Impairment,Mild Impairment,Antihypertensive,Topical,0.0,Normal,Take with Food,17.0,140.43062883431887
+100.84089608682693,1.4881418632315049,34.0,Female,Mild Impairment,Moderate Impairment,Antibiotic,Topical,1.0,Variant B,Take with Food,78.0,552.3942907390696
+92.52236906560216,1.140753967043187,34.0,Female,Mild Impairment,Mild Impairment,Chemotherapy,Oral,,Normal,Take with Food,48.0,797.7962668104539
+113.40252217838795,0.7701460959473923,78.0,Male,Severe Impairment,Mild Impairment,Analgesic,Topical,5.0,Normal,Take on Empty Stomach,27.0,524.6450091418992
+114.52809191756585,1.0471780517223623,76.0,Male,Moderate Impairment,Mild Impairment,Antihypertensive,IM,0.0,Normal,,19.0,357.4775580249334
+86.13571805280685,1.0534536396587755,49.0,Female,Moderate Impairment,Moderate Impairment,Analgesic,Topical,4.0,Normal,Take with Food,17.0,289.2671153520713
+64.26900585804933,1.1030659457538279,28.0,Male,Normal,Normal,Antihypertensive,Topical,3.0,Variant A,None,7.0,236.35621249493533
+49.855659863237236,1.2107563224199982,29.0,Male,Mild Impairment,Normal,Antibiotic,Topical,2.0,Variant A,None,38.0,668.8106660166607
+68.5807460658842,1.3626314682881615,30.0,Female,Mild Impairment,Severe Impairment,Antibiotic,IM,0.0,Variant A,Take on Empty Stomach,70.0,370.3097579149463
+95.731158410853,1.4425350754196535,57.0,Male,Normal,Mild Impairment,Chemotherapy,IV,0.0,Variant A,Take with Food,48.0,213.14396649697355
+71.92270783636614,,,Female,Normal,Normal,Chemotherapy,Oral,0.0,Variant A,Take with Food,44.0,638.8994401175232
+41.643330606851876,1.2388230246220302,43.0,Female,Normal,Severe Impairment,Antihypertensive,Topical,5.0,Variant A,,62.0,235.46584267294523
+87.73710856855914,0.7666708876400061,60.0,Female,Normal,Normal,Chemotherapy,Oral,4.0,Variant B,Take with Food,38.0,63.32164930474929
+,0.8675762168523912,68.0,Male,Moderate Impairment,Normal,,IV,4.0,Variant B,None,27.0,363.1052930037759
+60.227889429771025,1.4293416757357977,31.0,Female,Severe Impairment,Moderate Impairment,Antihypertensive,Oral,3.0,Variant B,None,69.0,701.8767728613325
+67.44715383707502,1.2071923115185914,46.0,Male,Normal,Mild Impairment,Antidepressant,Oral,0.0,Normal,Take with Food,85.0,36.06061035354756
+95.48345991427547,,26.0,Male,Moderate Impairment,Severe Impairment,Antihypertensive,IM,1.0,Variant B,Take on Empty Stomach,36.0,138.3033326418598
+42.88851129220602,1.1809933967530024,23.0,Female,Severe Impairment,Mild Impairment,Antihypertensive,IV,2.0,Variant B,None,41.0,405.39212770373217
+71.36717639413395,1.3223830614003087,25.0,Female,Moderate Impairment,Normal,Antihypertensive,IM,3.0,Variant A,None,,504.655697862807
+46.13533213789597,1.316134224225149,54.0,Male,Severe Impairment,Normal,Analgesic,IM,1.0,Variant A,Take with Food,72.0,151.90912895466795
+97.12982111185651,1.3896190344582877,31.0,Male,Normal,Mild Impairment,Analgesic,IV,2.0,Normal,None,74.0,518.6236002581809
+119.49917634131413,0.7692238632017042,25.0,Male,Moderate Impairment,Moderate Impairment,Chemotherapy,IV,5.0,Normal,Take on Empty Stomach,6.0,65.06914468000524
+70.02823465711191,1.4261827708747794,73.0,,Moderate Impairment,Normal,Antibiotic,Oral,0.0,Variant B,None,81.0,711.2223294071522
+108.6451250212728,1.4976094331519754,75.0,Male,Severe Impairment,Moderate Impairment,Chemotherapy,IM,1.0,Normal,Take with Food,48.0,669.7355089004751
+109.6256045722528,0.8831520193357039,59.0,Female,Normal,,Antidepressant,IV,2.0,Variant A,Take on Empty Stomach,1.0,169.6661208159945
+96.99108797802747,1.2139640777643872,36.0,Female,Mild Impairment,Mild Impairment,Antihypertensive,Oral,,Variant A,None,63.0,483.1992597740298
+49.523640745754804,,24.0,Male,Mild Impairment,Moderate Impairment,Analgesic,Oral,5.0,Variant A,Take with Food,68.0,618.3342526959858
+100.25949918734563,1.3844382239909017,51.0,Female,Mild Impairment,Mild Impairment,Antihypertensive,IV,0.0,,Take with Food,64.0,119.34284342538483
+73.92026296243358,0.7941616792598594,61.0,Male,Severe Impairment,Mild Impairment,Antihypertensive,IM,2.0,Variant A,None,56.0,45.489876512113746
+99.8326736590338,0.887648783309024,50.0,Female,Moderate Impairment,Mild Impairment,Antibiotic,IM,4.0,Variant B,Take on Empty Stomach,82.0,186.85858763316878
+64.42833727886335,1.173429365133705,18.0,Female,Mild Impairment,Moderate Impairment,Analgesic,Oral,3.0,Variant A,,56.0,752.1684247095686
+114.92344501631547,1.4990710984328142,40.0,Female,Severe Impairment,Moderate Impairment,Analgesic,IM,1.0,Variant A,None,80.0,405.6660856152565
+44.63536796437101,1.3919679062854309,,Female,Moderate Impairment,Normal,Analgesic,IV,,Variant A,None,86.0,447.81724061362166
+117.25029741930632,1.391714260112308,70.0,Male,Mild Impairment,Mild Impairment,Antidepressant,Topical,4.0,Variant B,Take with Food,18.0,581.2425886340325
+67.10889559122464,1.2940994921564353,79.0,Male,Moderate Impairment,Severe Impairment,Antidepressant,,5.0,Variant B,Take on Empty Stomach,36.0,160.14393611309146
+55.76753474786703,1.2590403258815934,41.0,Male,Normal,Severe Impairment,Antibiotic,Oral,4.0,Variant A,,64.0,401.5971934347397
+87.74742990899809,0.8644991475127745,20.0,Male,Moderate Impairment,Severe Impairment,Antidepressant,Oral,0.0,Normal,Take on Empty Stomach,68.0,360.50681921260446
+82.00098367819608,1.223514249307102,,Male,Mild Impairment,Mild Impairment,Antidepressant,Oral,2.0,Variant A,Take on Empty Stomach,30.0,347.2765902086505
+,0.7822711620807259,26.0,Female,Normal,Normal,Antibiotic,Oral,5.0,Variant B,None,9.0,765.003578304722
+104.16966508866051,1.0446247583632957,48.0,Female,Mild Impairment,Mild Impairment,Antibiotic,IV,0.0,Normal,Take on Empty Stomach,76.0,725.717625462547
+86.4342331800037,1.3031003278090705,68.0,Female,Severe Impairment,Normal,Antidepressant,Oral,5.0,Variant B,Take on Empty Stomach,76.0,671.2062183622897
+77.1427141727342,1.218073148414546,23.0,Male,Moderate Impairment,Moderate Impairment,,IM,1.0,Variant A,Take with Food,53.0,195.77452171148107
+,1.2464543488398332,24.0,Female,Normal,Mild Impairment,Antihypertensive,IM,1.0,Variant A,Take with Food,68.0,750.2414882988362
+57.60147509310737,0.7859012219074176,41.0,Female,Normal,Normal,Analgesic,IM,2.0,,Take on Empty Stomach,63.0,480.59233301770934
+105.03597163705581,1.028918641238093,19.0,Female,Severe Impairment,Mild Impairment,Antihypertensive,IV,4.0,Variant B,None,30.0,132.5955955650423
+66.48071689608605,1.4399302522390967,58.0,Male,Mild Impairment,,Chemotherapy,IM,3.0,Variant B,Take on Empty Stomach,11.0,129.17356197792907
+79.95552084600143,1.3933289001153422,44.0,Female,Severe Impairment,Severe Impairment,Antihypertensive,IM,3.0,Normal,Take on Empty Stomach,24.0,172.62182559270528
+44.025824662634776,1.2316015562417042,19.0,Male,Severe Impairment,Moderate Impairment,Antihypertensive,IM,0.0,Variant B,Take on Empty Stomach,49.0,205.3831681266719
+55.03846814079913,1.1790401860568078,25.0,Female,Normal,Moderate Impairment,Antihypertensive,IM,2.0,,Take on Empty Stomach,85.0,748.5288861289889
+62.42459693231243,0.7339806501876186,45.0,Female,Mild Impairment,Severe Impairment,Antibiotic,,1.0,Variant B,,84.0,575.8830208381477
+53.85658499507214,1.2976931874476363,25.0,Female,Moderate Impairment,Moderate Impairment,Chemotherapy,IV,3.0,Variant B,,27.0,752.1173339089079
+48.56067566000512,1.0897325083705027,25.0,Male,Moderate Impairment,Severe Impairment,Antihypertensive,Oral,5.0,Variant A,Take with Food,20.0,333.38238765348285
+98.4565304520028,0.9706496647743974,38.0,Male,Severe Impairment,Normal,Antihypertensive,Topical,1.0,Variant B,None,25.0,292.1985992666861
+91.92251415460008,0.9270048878691486,28.0,Male,Severe Impairment,Moderate Impairment,Antidepressant,Topical,0.0,Variant B,Take with Food,4.0,671.8898205665156
+86.83047767806053,1.008353392990317,20.0,Female,Normal,Normal,Chemotherapy,Topical,2.0,Variant A,None,14.0,372.3563751702655
+70.14949041481319,1.4909786388541237,75.0,Male,Mild Impairment,Moderate Impairment,Antidepressant,Oral,3.0,Normal,None,56.0,54.83192912714054
+42.14628065752126,0.7882658756111867,29.0,Male,Moderate Impairment,Normal,Antidepressant,IM,3.0,Normal,Take on Empty Stomach,33.0,100.47499876601702
+60.437938782894946,0.7764262981535451,26.0,Male,Mild Impairment,Severe Impairment,Antidepressant,IV,3.0,Normal,Take with Food,28.0,547.0849056896906
+73.9571734836052,0.8670409070602032,,Male,Normal,Mild Impairment,Antidepressant,IV,2.0,Normal,None,81.0,688.2585110948747
+86.18371821233694,1.227944590604031,,Female,Severe Impairment,Moderate Impairment,Antidepressant,IM,3.0,Normal,Take on Empty Stomach,56.0,292.1856320984608
+81.0786588608498,0.888449512076734,41.0,Male,Severe Impairment,Moderate Impairment,Analgesic,Topical,1.0,Normal,Take on Empty Stomach,46.0,325.23167581391124
+67.54585759609637,1.4629912210046034,52.0,Female,Normal,Severe Impairment,Analgesic,,0.0,Variant B,,60.0,
+49.240689395540414,0.7698862734524822,24.0,Male,Normal,Mild Impairment,Chemotherapy,Topical,1.0,Variant A,Take on Empty Stomach,73.0,792.5601844707119
+51.292888096192826,0.9315152251459154,72.0,Female,Mild Impairment,Severe Impairment,Chemotherapy,Topical,2.0,Variant B,Take with Food,66.0,98.77960341766575
+99.34200946605033,1.1487965894804586,43.0,Female,Mild Impairment,Moderate Impairment,Antidepressant,IV,4.0,Variant A,Take on Empty Stomach,44.0,501.38587745999246
+63.94858102067437,1.2513920322633334,80.0,Female,Severe Impairment,Severe Impairment,Antihypertensive,Topical,2.0,Variant A,Take on Empty Stomach,74.0,446.6027951009495
+104.01470380072736,1.2701996967747364,62.0,Male,,Severe Impairment,Analgesic,Topical,1.0,Variant A,None,84.0,58.70137190694924
+97.20764502391143,0.934639834008702,44.0,Female,Mild Impairment,Mild Impairment,Antibiotic,IV,1.0,Variant B,Take on Empty Stomach,84.0,551.2778359003606
+56.03543618671935,0.9462197004976974,56.0,Male,Severe Impairment,Mild Impairment,Analgesic,IM,2.0,Normal,Take on Empty Stomach,51.0,550.8711452665937
+110.2008135269706,1.3362843731095273,42.0,Female,,Mild Impairment,Analgesic,IM,4.0,Variant A,Take with Food,87.0,711.853528965771
+48.53969331221832,1.3396426938931603,66.0,Female,Mild Impairment,Severe Impairment,Chemotherapy,IM,4.0,Normal,Take on Empty Stomach,49.0,750.7850900039869
+78.84415944753317,1.0674977672991266,81.0,Female,Normal,Severe Impairment,Antihypertensive,Oral,2.0,Variant B,,46.0,769.5860754095385
+90.92030467750462,1.472439138238977,69.0,Female,Moderate Impairment,Moderate Impairment,Analgesic,IV,0.0,Variant A,Take on Empty Stomach,74.0,239.44905007240772
+103.23888944396572,0.7803963110779129,18.0,Male,Severe Impairment,Normal,Antibiotic,IV,3.0,Variant B,None,39.0,94.83695385620932
+46.43064883845706,1.0859280950699268,51.0,Male,Mild Impairment,,Antihypertensive,IV,3.0,Variant B,Take on Empty Stomach,83.0,66.99919985830968
+92.72023862809817,1.100413705808544,67.0,Female,Moderate Impairment,Normal,Antidepressant,IV,2.0,Variant A,Take on Empty Stomach,32.0,233.55924588376516
+100.23114292174415,1.0792225158978972,41.0,,Moderate Impairment,Normal,Antidepressant,IM,3.0,Normal,Take on Empty Stomach,61.0,398.31074889410183
+106.44994132776772,1.085010272515945,18.0,Male,Mild Impairment,Mild Impairment,Analgesic,,5.0,Normal,Take on Empty Stomach,51.0,457.0086856106337
+48.9036865139814,1.2012329540313282,18.0,,Mild Impairment,,Analgesic,IV,,Normal,Take on Empty Stomach,21.0,207.06631791054028
+90.37887786637356,0.7216205289732066,,Female,Severe Impairment,Normal,Chemotherapy,IM,4.0,Variant A,None,64.0,653.6609465137903
+63.6821262104546,,28.0,Female,Moderate Impairment,Normal,Chemotherapy,IV,5.0,Normal,None,42.0,215.69222645669512
+101.49240137423152,0.8017399687322071,33.0,Male,Moderate Impairment,Mild Impairment,Analgesic,IM,1.0,Variant A,Take with Food,29.0,526.6406758153815
+42.41305284147518,,25.0,Male,Normal,Mild Impairment,Chemotherapy,IM,5.0,Variant A,Take on Empty Stomach,8.0,328.9452051710331
+112.6950843546223,1.379485751714147,31.0,Female,Severe Impairment,Normal,Analgesic,IM,2.0,Variant A,None,68.0,473.13760014884684
+56.17832287969651,1.1172681649486653,19.0,Female,Severe Impairment,Moderate Impairment,Antihypertensive,IV,2.0,Normal,Take with Food,20.0,14.471757092672437
+81.4075659169627,0.7759803316995832,81.0,,Severe Impairment,Mild Impairment,Analgesic,IV,3.0,Variant B,Take on Empty Stomach,,9.970232544980586
+90.91221930705457,0.7172280147017838,80.0,Female,Mild Impairment,Normal,Antihypertensive,Topical,5.0,Variant A,None,46.0,405.29996393894305
+102.24172287075497,1.124733379599427,56.0,Female,Moderate Impairment,Normal,Analgesic,Topical,,Normal,,32.0,401.04870277383526
+73.52923728642928,0.7187481384031964,68.0,,Mild Impairment,Normal,Chemotherapy,Oral,4.0,Variant B,Take on Empty Stomach,74.0,151.25485940615346
+71.98612224180152,1.3427937517337107,,Male,Mild Impairment,Severe Impairment,Analgesic,IM,2.0,Variant B,None,26.0,707.0228028422339
+110.02874891722205,0.9908444074983593,36.0,Male,Normal,Severe Impairment,Analgesic,IM,3.0,Normal,Take on Empty Stomach,12.0,321.1181687888469
+119.93112636308885,0.7137049561479268,45.0,Male,Severe Impairment,,Antibiotic,Topical,5.0,Variant B,None,23.0,181.18581529516305
+111.15241425935406,1.0349013441583808,24.0,Female,Severe Impairment,Moderate Impairment,,IM,2.0,Variant B,Take on Empty Stomach,51.0,
+58.21349569875407,1.2045145908085604,63.0,Male,Normal,Normal,Chemotherapy,IV,2.0,Variant B,Take with Food,47.0,74.02851016904187
+79.21177884856945,1.4480383123194314,53.0,Female,Severe Impairment,Normal,Chemotherapy,,4.0,Variant A,Take on Empty Stomach,,694.6128776295443
+51.54066420369243,0.7402760975906655,49.0,Male,Normal,Moderate Impairment,Antihypertensive,Topical,1.0,Variant B,None,87.0,363.95619411452185
+100.049791685979,0.8082545501074753,36.0,Female,Moderate Impairment,Normal,Antidepressant,IV,1.0,Variant A,Take on Empty Stomach,81.0,308.09861002549377
+89.86555753581473,1.1830102297218015,52.0,Male,Moderate Impairment,Moderate Impairment,Chemotherapy,Oral,3.0,Variant A,Take on Empty Stomach,7.0,382.00673357280516
+68.71184966464122,0.99876325055423,42.0,Female,Moderate Impairment,Severe Impairment,Antibiotic,Oral,5.0,Variant A,Take with Food,,246.5790532239157
+108.0852330671436,0.9855464264228883,27.0,Male,Moderate Impairment,Moderate Impairment,Antihypertensive,Topical,4.0,Variant A,,39.0,438.0697616787847
+55.31829906844855,0.8772779528048406,25.0,Male,Severe Impairment,Normal,Antibiotic,IM,4.0,Variant B,Take with Food,30.0,156.40788703209378
+72.70085408676493,1.1337195192865588,32.0,Male,Severe Impairment,Severe Impairment,Antihypertensive,IV,4.0,,None,,234.92038290608434
+57.36725225817575,1.22476097693246,68.0,Male,,Moderate Impairment,Chemotherapy,IM,4.0,Variant B,None,35.0,25.62008393927384
+107.24261055037172,0.9182766982621234,19.0,,Moderate Impairment,Mild Impairment,Chemotherapy,IM,4.0,Variant A,Take on Empty Stomach,77.0,102.6090642861085
+105.83337206940664,1.3871252232725853,64.0,Male,Mild Impairment,Mild Impairment,Antihypertensive,IM,2.0,Normal,Take on Empty Stomach,60.0,77.22154978960458
+,1.1722107303652873,60.0,Male,,Moderate Impairment,Antihypertensive,IV,2.0,Normal,None,1.0,765.9333027247569
+47.51250385957006,1.2943374143215358,57.0,Female,Mild Impairment,Mild Impairment,Chemotherapy,IV,3.0,Variant B,Take with Food,7.0,642.2604452416329
+96.47383059342559,0.7709599357278706,58.0,Female,Mild Impairment,Moderate Impairment,Analgesic,IV,0.0,Normal,None,58.0,749.5332475001268
+101.61325022533335,0.7072876974522438,65.0,Male,Mild Impairment,Severe Impairment,Chemotherapy,IV,5.0,Variant B,Take with Food,77.0,705.2824510689188
+119.35583467141501,1.0504853474281755,53.0,Male,Moderate Impairment,Normal,Chemotherapy,IM,2.0,Variant A,Take with Food,36.0,677.8095399068793
+53.248898118521744,0.8705666030087746,56.0,,Severe Impairment,Normal,Antibiotic,Topical,5.0,Variant A,Take on Empty Stomach,23.0,639.703823809079
+49.262968184306146,1.212881066831252,54.0,Male,Moderate Impairment,Severe Impairment,Antidepressant,Oral,2.0,Normal,Take on Empty Stomach,8.0,435.4231519040964
+82.924698042626,1.3026101463984494,25.0,,Moderate Impairment,,Antibiotic,IV,0.0,Normal,None,,600.5513985515163
+58.603271940680266,1.0282548684681092,40.0,Male,Moderate Impairment,Moderate Impairment,Chemotherapy,IM,5.0,Variant B,Take on Empty Stomach,3.0,551.605187254217
+47.103715358835416,1.249613347631551,20.0,Female,Normal,Normal,Analgesic,IM,5.0,Variant A,None,87.0,490.8565951881188
+55.33412636170421,1.0487632835885219,38.0,Female,Normal,Severe Impairment,Chemotherapy,IM,0.0,Variant A,Take with Food,32.0,690.3872653111036
+,1.3989735287683407,64.0,Male,Normal,Moderate Impairment,Antidepressant,Topical,0.0,Normal,Take on Empty Stomach,18.0,782.984014641201
+67.1646788144152,1.0451536165433761,25.0,Male,Severe Impairment,Normal,Antibiotic,,0.0,,,84.0,750.8300220347401
+117.3260836152005,0.8859726618166235,,Female,Normal,Mild Impairment,,Topical,4.0,Normal,Take with Food,72.0,178.667436436207
+75.39859783472409,1.0534780442538925,39.0,Male,Mild Impairment,Severe Impairment,Chemotherapy,Topical,0.0,Variant B,Take with Food,77.0,325.51433246384056
+102.99605153663924,,68.0,Male,Severe Impairment,Moderate Impairment,Antidepressant,Oral,1.0,Variant B,Take on Empty Stomach,87.0,93.19005486642394
+48.32328873474296,1.4268775132038112,54.0,Female,Severe Impairment,Normal,Antibiotic,IM,,Variant B,Take on Empty Stomach,88.0,120.09037510353271
+40.06194692919767,0.8023914574424168,42.0,Female,Severe Impairment,Moderate Impairment,Chemotherapy,,0.0,Normal,None,,394.13883864947593
+46.33015460490634,0.8010128923379801,68.0,,Normal,Normal,Chemotherapy,IV,2.0,Normal,Take with Food,21.0,433.91235870787494
+106.00582558095641,1.169690142963647,29.0,Male,Normal,Mild Impairment,Antibiotic,Oral,4.0,Normal,Take on Empty Stomach,77.0,408.4691195476735
+43.86000314549249,1.2778758082232065,75.0,Male,Normal,Normal,Analgesic,IV,3.0,Normal,None,2.0,716.1363268730277
+119.40030651281998,1.3873006874254075,73.0,Male,Severe Impairment,Moderate Impairment,Antidepressant,Oral,1.0,Normal,Take with Food,27.0,
+68.92785387606675,0.9634134015921607,65.0,Female,Severe Impairment,Moderate Impairment,Analgesic,Oral,5.0,Variant B,Take with Food,47.0,525.8003752052631
+77.9487257997429,1.118963778562148,31.0,Male,Moderate Impairment,Moderate Impairment,Analgesic,IM,,Variant A,Take on Empty Stomach,55.0,204.342926333244
+105.02197281277724,0.8990184642209695,18.0,Male,Severe Impairment,Mild Impairment,Analgesic,Oral,1.0,Variant B,Take with Food,17.0,610.5893813766551
+117.54086765788196,0.9721073868824199,28.0,Male,Moderate Impairment,Moderate Impairment,Analgesic,IM,4.0,Variant A,Take on Empty Stomach,9.0,128.09661141115492
+70.92307530260229,1.3742330943294938,23.0,Male,Moderate Impairment,Severe Impairment,Antihypertensive,Oral,1.0,Variant B,,9.0,269.643615484959
+87.51940616627381,0.8013377653894839,57.0,Male,Severe Impairment,Normal,,Topical,0.0,Normal,None,71.0,456.80550958555284
+,0.7175628932350818,75.0,Female,,Mild Impairment,Analgesic,IV,3.0,Normal,Take on Empty Stomach,26.0,442.8065298023502
+59.68302448580292,0.9468585111737204,49.0,Male,Mild Impairment,Severe Impairment,Antihypertensive,Topical,5.0,Variant B,Take on Empty Stomach,44.0,165.06328430290864
+93.30558620794474,1.0580383768933361,74.0,Female,Severe Impairment,Mild Impairment,Antidepressant,Topical,4.0,Normal,Take with Food,75.0,664.1284626962432
+117.12601502186254,1.103027200689161,72.0,Female,Moderate Impairment,Normal,,,5.0,Variant A,Take with Food,30.0,37.23600355262874
+60.392785522934375,1.3383250875217028,79.0,Female,Normal,Normal,Analgesic,IM,4.0,Normal,Take on Empty Stomach,9.0,
+74.72710864340327,1.4009326254052386,23.0,Male,Mild Impairment,Normal,Antibiotic,Oral,1.0,Normal,Take on Empty Stomach,88.0,473.1912289489104
+,1.2953710013606698,66.0,Female,Moderate Impairment,Normal,Antidepressant,IM,3.0,Variant B,None,30.0,363.8524910437512
+97.41121615563034,0.7932373447152692,18.0,Female,Normal,Severe Impairment,Antibiotic,Topical,1.0,Variant A,Take with Food,84.0,27.663785747732952
+,,29.0,Male,Severe Impairment,Severe Impairment,Antidepressant,Topical,4.0,Normal,Take on Empty Stomach,82.0,797.8844125376468
+,1.4331105084928146,72.0,Female,Normal,Severe Impairment,Antidepressant,IM,1.0,Normal,Take on Empty Stomach,18.0,796.491471196568
+106.10645935402361,1.3672878000374944,66.0,Male,Normal,Severe Impairment,Antibiotic,IM,0.0,Variant B,Take with Food,41.0,297.1739865347156
+115.83468862926257,0.7064716550815758,80.0,Male,Normal,Mild Impairment,Antidepressant,Topical,3.0,Variant A,Take on Empty Stomach,59.0,15.272815104378974
+69.15474692160788,0.833100939778649,33.0,Female,Moderate Impairment,,Chemotherapy,Topical,3.0,Variant B,None,9.0,501.6982554993548
+,1.4098927294621455,40.0,Female,Mild Impairment,Severe Impairment,Analgesic,,4.0,Normal,Take with Food,72.0,100.70430304827732
+51.005781866124735,1.4693365356674315,34.0,,Severe Impairment,Mild Impairment,Antidepressant,Topical,5.0,Normal,Take on Empty Stomach,63.0,767.2914071408292
+112.19176496901876,0.7352827422141806,22.0,Male,,Mild Impairment,Antihypertensive,IM,2.0,Normal,None,2.0,347.38276764338696
+47.922866044052974,1.3352561569249,20.0,Male,Mild Impairment,Moderate Impairment,Antidepressant,Topical,0.0,Variant B,Take with Food,64.0,639.1049041547514
+72.75737431169377,0.7233471935138035,59.0,Female,Severe Impairment,Severe Impairment,Antihypertensive,IV,1.0,Normal,None,83.0,383.0251080805849
+82.98906206071176,1.3484314033813012,27.0,Female,Normal,Normal,Antidepressant,Oral,4.0,Normal,Take on Empty Stomach,,
+49.66531615619199,0.7113089520925793,26.0,Male,,Mild Impairment,,Oral,5.0,Normal,None,73.0,394.7041247692773
+108.92447367396382,1.3109335700542606,20.0,,Normal,Moderate Impairment,Chemotherapy,IM,0.0,Normal,Take on Empty Stomach,66.0,
+106.22421823778082,0.7734604441856396,84.0,Male,Moderate Impairment,Mild Impairment,Analgesic,IM,2.0,Normal,None,,463.611266894999
+53.806685850021495,1.331304842613013,74.0,Male,Mild Impairment,Severe Impairment,Chemotherapy,IM,3.0,Variant A,Take with Food,76.0,643.6423308390071
+44.273176677601526,1.3701847893153762,19.0,Female,Mild Impairment,Mild Impairment,Chemotherapy,IM,0.0,,Take on Empty Stomach,19.0,674.8665033493716
+87.96604161991662,1.295936877164436,73.0,Male,Moderate Impairment,Moderate Impairment,Analgesic,IV,4.0,Variant B,Take on Empty Stomach,77.0,114.65981882229619
+115.74672213725344,1.2169803737361868,48.0,Female,Normal,Moderate Impairment,Analgesic,Oral,3.0,Variant A,Take with Food,5.0,568.9708981504817
+65.8100113086796,1.3496247943201336,18.0,Male,Moderate Impairment,Severe Impairment,Chemotherapy,IV,2.0,Variant B,Take with Food,12.0,121.31536053845758
+108.4666303160834,0.9441440902334672,74.0,Male,,Normal,Analgesic,Topical,3.0,Variant A,Take with Food,76.0,394.86141476329533
+65.0438939136366,0.8949189610374727,20.0,Female,Moderate Impairment,Severe Impairment,Antibiotic,IM,4.0,Normal,Take on Empty Stomach,,428.8113974674642
+101.15916381673048,0.8266327301681752,55.0,Female,Mild Impairment,Mild Impairment,Antibiotic,IM,5.0,Variant B,Take with Food,54.0,394.26947406371085
+87.42999197262142,0.9202138741861936,59.0,Male,Moderate Impairment,Moderate Impairment,Analgesic,IV,5.0,Variant B,Take on Empty Stomach,44.0,246.22427934349696
+62.17787042801511,0.940793138326629,51.0,,Mild Impairment,Mild Impairment,,Topical,3.0,Normal,Take with Food,61.0,745.5048095811769
+118.68058641389162,1.4026482578920454,51.0,Female,Mild Impairment,Normal,Antibiotic,Oral,0.0,Variant B,None,40.0,346.51981035580184
+109.10800033782509,0.8814451424255595,26.0,Male,Normal,Mild Impairment,Antibiotic,Oral,0.0,Variant A,None,51.0,585.4048044188205
+53.6846446378315,1.287759563079581,43.0,Female,Mild Impairment,Mild Impairment,Analgesic,Oral,2.0,Variant B,None,19.0,344.12352081363207
+81.57131980755287,1.0380872617309336,64.0,Male,Severe Impairment,Mild Impairment,Analgesic,IV,5.0,Normal,Take with Food,74.0,378.87686494490174
+112.66724278574459,,29.0,Female,Normal,Normal,Antidepressant,IM,1.0,Variant B,Take with Food,67.0,
+113.71614708198935,,83.0,Male,Severe Impairment,Severe Impairment,Antibiotic,,4.0,Variant B,Take on Empty Stomach,78.0,224.031084245418
+73.31920212842383,1.0253776781654391,53.0,Male,Normal,Moderate Impairment,Antibiotic,IM,,Variant B,None,17.0,149.8419500488917
+86.74763787342566,0.7776828903276332,20.0,Male,Severe Impairment,Mild Impairment,Antibiotic,Topical,2.0,Variant A,None,5.0,48.730596464089615
+90.04091199050094,1.44217094349679,48.0,Male,Normal,Severe Impairment,Analgesic,IM,0.0,Normal,None,17.0,591.8797197643853
+85.82322028795565,0.7608990561659513,38.0,Male,Severe Impairment,Mild Impairment,Antihypertensive,IM,1.0,Normal,Take on Empty Stomach,14.0,208.95086937706813
+95.19336139294609,1.2782982645080891,83.0,Male,Moderate Impairment,Moderate Impairment,Antidepressant,IV,0.0,Variant A,None,75.0,
+41.22570975391308,1.4540438264633289,60.0,Male,Severe Impairment,Moderate Impairment,Chemotherapy,IM,3.0,Variant A,None,57.0,721.1235729272926
+82.46556872565259,0.91899586502803,47.0,Female,Normal,Normal,Antibiotic,IV,0.0,Normal,,61.0,568.0616773091975
+86.91847663764179,0.8244569630753942,19.0,Male,Mild Impairment,Severe Impairment,Chemotherapy,IV,0.0,Normal,Take on Empty Stomach,14.0,641.9181331674517
+96.39076625055152,0.9313355145908996,58.0,Female,Moderate Impairment,Mild Impairment,Antihypertensive,,2.0,Normal,None,87.0,674.3530205291089
+90.46482069505322,0.722332997426607,83.0,Female,Severe Impairment,Normal,Chemotherapy,Oral,4.0,Normal,Take on Empty Stomach,,335.4000837886637
+54.50169492449328,1.4315418914729565,60.0,Female,Severe Impairment,Normal,Analgesic,Topical,1.0,Variant B,Take on Empty Stomach,56.0,399.04993508395603
+69.60929623552585,0.91178203676334,20.0,Female,Normal,Mild Impairment,Chemotherapy,Oral,5.0,Normal,Take on Empty Stomach,50.0,101.41936855633516
+73.51990008611305,1.1192321254248356,18.0,Male,Severe Impairment,Mild Impairment,Analgesic,Oral,3.0,Variant B,Take on Empty Stomach,1.0,188.5011309138653
+93.73075703648763,0.756957474150217,18.0,Female,,Severe Impairment,Chemotherapy,IM,3.0,Variant A,None,48.0,259.6370855050003
+,1.3176574400739567,30.0,Female,Mild Impairment,Severe Impairment,Analgesic,IM,4.0,,Take on Empty Stomach,15.0,43.50265898997465
+97.58644599215603,1.0509622271122905,44.0,Male,Mild Impairment,Mild Impairment,Antibiotic,IV,3.0,Variant B,Take on Empty Stomach,56.0,503.69645979019873
+89.10715572576052,1.0020247299368432,72.0,,Moderate Impairment,Moderate Impairment,Antibiotic,IV,5.0,Variant B,None,16.0,537.266321004595
+71.62072428995313,1.0169075846343882,26.0,Female,Severe Impairment,Moderate Impairment,Analgesic,Topical,4.0,Normal,None,22.0,115.45300979017073
+60.69882903592995,1.465049572327126,34.0,Male,Moderate Impairment,Mild Impairment,Chemotherapy,IM,4.0,Variant B,Take on Empty Stomach,30.0,69.41906499430759
+54.092314319536015,0.7893967928488226,72.0,Male,Moderate Impairment,Severe Impairment,Antibiotic,IM,2.0,Variant B,Take with Food,62.0,667.458503101198
+68.1878706222762,1.4413070879521925,65.0,Female,Moderate Impairment,Severe Impairment,Antihypertensive,,3.0,Normal,Take on Empty Stomach,50.0,681.5313038251857
+68.74146816204052,1.149545084564531,30.0,Female,Mild Impairment,Mild Impairment,Chemotherapy,IM,0.0,Variant A,Take with Food,42.0,393.59232318640045
+92.92184870854516,1.1562143050490514,56.0,Male,Mild Impairment,Moderate Impairment,Analgesic,IV,2.0,Normal,Take with Food,6.0,774.1764778434123
+,0.9374963453517497,57.0,Female,Mild Impairment,Severe Impairment,Antihypertensive,,4.0,Normal,Take on Empty Stomach,68.0,343.30116223263974
+52.59009501804596,0.9850629784134217,70.0,Male,Normal,Severe Impairment,Analgesic,Oral,1.0,Normal,None,37.0,
+117.97519936601796,1.234279520816644,20.0,Female,Mild Impairment,Moderate Impairment,,Oral,0.0,Variant A,Take on Empty Stomach,89.0,368.6815555950804
+42.9900183749184,0.9764428925863433,65.0,Female,Moderate Impairment,Severe Impairment,,Oral,2.0,Normal,None,79.0,595.2863590230573
+115.14161482634017,1.1894015992093616,26.0,Female,Moderate Impairment,Normal,Antidepressant,Topical,0.0,Variant B,None,61.0,657.2520099532018
+73.75921245799513,1.2297101064157068,55.0,Male,Severe Impairment,Severe Impairment,Chemotherapy,IV,4.0,Variant B,Take with Food,84.0,642.8557453294678
+84.74299456493769,0.7248399171867406,45.0,Male,Mild Impairment,Normal,Chemotherapy,IM,,Variant B,,50.0,37.07287776007102
+103.78292313410708,1.2304368869292295,35.0,Male,Mild Impairment,Severe Impairment,,IV,1.0,Variant A,Take on Empty Stomach,20.0,786.7182163813396
+111.92686605037633,0.7503869992209802,26.0,,Normal,Mild Impairment,Antidepressant,Topical,0.0,Normal,Take on Empty Stomach,44.0,
+119.98374305465683,1.2935734215948478,60.0,Female,Mild Impairment,,Antibiotic,IV,4.0,Normal,Take with Food,42.0,74.48646688236046
+,1.3129914972405452,34.0,Male,Mild Impairment,Normal,Chemotherapy,,4.0,Normal,None,67.0,
+90.77992761802831,0.8164975520718142,69.0,Female,Mild Impairment,,Antihypertensive,Oral,3.0,Variant B,None,35.0,751.6200753219591
+54.01334413177217,1.1831334611482625,73.0,Female,Severe Impairment,Moderate Impairment,Antihypertensive,IV,5.0,Variant B,Take with Food,73.0,391.61922547611744
+80.16829679140261,0.8121528698370825,24.0,Female,Severe Impairment,Severe Impairment,Chemotherapy,IV,0.0,Variant A,Take on Empty Stomach,13.0,629.2723572816541
+,1.388378440217799,18.0,Female,,Moderate Impairment,Analgesic,IV,1.0,Normal,Take with Food,35.0,116.15371435106702
+117.12058381375408,1.089468760220094,58.0,Male,Normal,,Antidepressant,Oral,,Variant B,None,76.0,290.4119015413285
+43.02548243891504,0.941147489258039,29.0,Female,Severe Impairment,Normal,Antidepressant,IM,4.0,Variant B,None,,475.9928583240588
+105.40347572110177,1.3196695608973072,51.0,Male,Moderate Impairment,Mild Impairment,Analgesic,IV,0.0,Variant B,None,50.0,638.3906699244868
+105.2607253923276,1.4913267395727323,41.0,Female,Severe Impairment,Moderate Impairment,Analgesic,IM,3.0,Variant A,None,39.0,763.6052903739128
+74.46529898813549,1.4059684957603034,73.0,Female,Moderate Impairment,Severe Impairment,Antibiotic,IM,1.0,Normal,None,44.0,768.4651722068693
+71.98916166183977,1.3345326762803076,37.0,,Mild Impairment,Normal,Analgesic,IM,5.0,Variant A,None,13.0,472.3893408725142
+116.06916119679705,0.98584355535373,47.0,Female,Moderate Impairment,Severe Impairment,Antidepressant,Oral,1.0,Variant B,None,84.0,742.0150194805651
+70.07068302432845,1.4221638282146085,34.0,Male,Mild Impairment,Severe Impairment,Antibiotic,Topical,0.0,Normal,Take with Food,33.0,12.250224721030921
+44.325695260795555,1.2189222269305104,68.0,Male,Moderate Impairment,,Analgesic,Oral,2.0,Normal,None,76.0,732.9216875615501
+109.35435472206676,0.9421382328916766,57.0,Male,Normal,Moderate Impairment,Chemotherapy,Topical,3.0,Variant B,Take with Food,13.0,202.9146576440659
+111.44636940154713,0.701899208600118,56.0,Female,Severe Impairment,Moderate Impairment,Antihypertensive,IM,1.0,Variant B,None,79.0,187.46204322236403
+83.31523986981883,0.7260495857206601,70.0,Female,Normal,Severe Impairment,Analgesic,Topical,5.0,Variant B,None,1.0,768.7252121572194
+112.44132263605574,0.88663783203431,22.0,Male,Normal,Mild Impairment,Analgesic,Oral,5.0,Variant B,Take with Food,25.0,741.2264692862958
+91.57477866409167,0.7283456154789612,18.0,Male,Normal,Moderate Impairment,Analgesic,Oral,5.0,Variant B,Take on Empty Stomach,70.0,538.9423936442794
+50.94788601750302,0.700175629300082,34.0,Female,Moderate Impairment,Severe Impairment,Antibiotic,Topical,0.0,Variant B,None,46.0,546.5459455179846
+53.485873126947645,0.9009337971717186,83.0,Male,Normal,Normal,Antihypertensive,Oral,4.0,Variant B,None,11.0,25.453867515197654
+76.88640292549279,1.0749787646788556,61.0,Female,Severe Impairment,Severe Impairment,Analgesic,IV,3.0,Variant B,Take on Empty Stomach,62.0,760.7989404856977
+79.52547085867636,,21.0,,Normal,Moderate Impairment,Analgesic,,0.0,Variant A,Take with Food,56.0,
+79.67980840285477,0.8620670001871424,21.0,Female,,Moderate Impairment,Analgesic,IM,5.0,Normal,Take on Empty Stomach,59.0,24.835934785483673
+116.0338441894217,0.7179932749648925,65.0,Female,Normal,Moderate Impairment,Analgesic,Oral,,Normal,None,71.0,224.17720530932996
+79.92304074138312,0.8935222141877244,84.0,Female,Moderate Impairment,Moderate Impairment,Antidepressant,IV,1.0,Variant A,,51.0,330.48491144808366
+93.3719868208681,1.0587929749037566,59.0,Female,,Mild Impairment,Antidepressant,Oral,0.0,Variant A,Take on Empty Stomach,17.0,48.24338090878176
+,1.4319958184225121,58.0,Female,Moderate Impairment,Moderate Impairment,Antihypertensive,IM,0.0,,Take on Empty Stomach,3.0,199.05850169055134
+105.87209516077371,1.197853573380831,39.0,Male,Moderate Impairment,Moderate Impairment,Analgesic,IM,5.0,Variant A,Take on Empty Stomach,47.0,
+95.07548563942149,1.393895025771246,38.0,Female,Mild Impairment,Severe Impairment,Antibiotic,IV,1.0,Normal,Take with Food,33.0,278.919090160426
+116.46466339979143,1.179885689926813,52.0,Female,Normal,Severe Impairment,Antidepressant,Oral,2.0,Variant A,Take on Empty Stomach,34.0,
+65.24375346138972,1.1802879844809908,73.0,,Normal,Mild Impairment,Antibiotic,IM,2.0,Variant B,None,26.0,543.6270510853649
+111.05875773884136,0.9405030402177805,40.0,Female,Severe Impairment,Moderate Impairment,Antidepressant,IV,3.0,Variant A,None,18.0,636.8077553651844
+,0.8741809176465355,33.0,Male,Normal,Normal,Antidepressant,IM,2.0,Normal,Take on Empty Stomach,4.0,441.77700949426196
+84.34877511095087,1.3783919366049815,28.0,Female,Severe Impairment,Mild Impairment,,IM,0.0,Variant B,Take with Food,,147.8221185589509
+53.16525056778549,1.3391790913904689,59.0,Male,Normal,Severe Impairment,Antibiotic,Oral,0.0,Normal,Take on Empty Stomach,1.0,481.99426093629995
+99.52310214692898,1.2231653656096044,50.0,Female,Mild Impairment,Mild Impairment,Antibiotic,IV,0.0,Variant B,None,33.0,579.587050775639
+90.16115885620604,0.8934333751045251,75.0,Female,Mild Impairment,Normal,Antidepressant,Topical,3.0,Variant A,None,3.0,394.71374538818645
+114.45895421327002,1.4007956985254306,40.0,Female,Mild Impairment,Severe Impairment,Antihypertensive,IV,4.0,Normal,None,40.0,774.5996665422074
+73.39409058716743,1.4379369010832812,49.0,Female,Moderate Impairment,Severe Impairment,Antidepressant,Oral,1.0,Variant B,None,59.0,583.0954004815877
+77.77078107116739,1.493746253855903,69.0,Male,Normal,Severe Impairment,Antihypertensive,Topical,1.0,Variant B,None,24.0,515.2611605245947
+45.91569160632571,1.2992918722278786,78.0,Male,Normal,Moderate Impairment,Chemotherapy,IM,4.0,Variant A,None,54.0,18.64065309013545
+98.73353855635267,0.8844304480563392,73.0,Male,Mild Impairment,Normal,Analgesic,Oral,2.0,Variant A,Take with Food,23.0,170.88758815653162
+117.54798646907345,1.327006492673217,34.0,Female,Mild Impairment,Normal,Chemotherapy,IM,2.0,Variant B,Take with Food,54.0,547.2227271964067
+107.5679310975276,1.0204787283041412,70.0,Female,Severe Impairment,Mild Impairment,Antihypertensive,IM,0.0,Variant A,None,70.0,539.228193913776
+95.55547160772588,1.251533457589129,52.0,Female,Moderate Impairment,Normal,Antidepressant,IM,0.0,Normal,Take on Empty Stomach,73.0,90.56574384692522
+109.05996231243633,1.4781558896059948,32.0,Female,Normal,Severe Impairment,Antibiotic,Oral,,Variant B,Take with Food,17.0,746.7318378981355
+66.70566037250354,0.886823821293,38.0,Female,Mild Impairment,Normal,Analgesic,IM,0.0,Normal,Take with Food,80.0,285.8525036738799
+83.5827668456278,0.9720391909375399,,Male,Mild Impairment,Mild Impairment,Antidepressant,Topical,1.0,Variant A,Take on Empty Stomach,75.0,486.7925910806084
+48.90248809754375,1.2954378463162843,24.0,Male,Mild Impairment,Moderate Impairment,Analgesic,Oral,0.0,Normal,Take on Empty Stomach,54.0,622.4119757315691
+70.46357113799546,0.7622087502138527,30.0,Male,Normal,Severe Impairment,Analgesic,Oral,4.0,Variant B,None,80.0,672.6134447339341
+59.423920557542125,0.8706376755904235,23.0,,Mild Impairment,Mild Impairment,Antihypertensive,IM,0.0,Variant B,None,28.0,104.33514306732178
+43.61809737435006,1.0709463341684895,18.0,Male,Mild Impairment,Mild Impairment,Chemotherapy,IV,,Variant B,None,59.0,241.85488605838736
+47.50544553785255,1.1157635060830997,19.0,Male,Normal,,Analgesic,Topical,,Variant A,Take on Empty Stomach,45.0,471.9340928137422
+119.76147688083826,0.7934450475739729,65.0,Female,Moderate Impairment,Normal,Chemotherapy,IM,3.0,Variant B,None,62.0,162.24289601401472
+114.67157670029178,1.4500992055083544,40.0,Male,Mild Impairment,Moderate Impairment,Antibiotic,IM,0.0,Variant A,Take on Empty Stomach,28.0,736.1104267809689
+97.69905750505835,1.2051984854248037,45.0,Female,Mild Impairment,Moderate Impairment,Antihypertensive,Topical,5.0,Variant B,Take with Food,2.0,240.14323978680034
+76.57663346756891,1.1762298897168366,51.0,,Normal,Moderate Impairment,Antidepressant,IM,2.0,Variant A,Take on Empty Stomach,88.0,225.89065518448444
+71.69716638400288,0.8770084950705505,61.0,Female,Mild Impairment,Moderate Impairment,Chemotherapy,Topical,2.0,Variant B,Take with Food,17.0,229.94221986441087
+94.09868224249794,1.2360901329036649,65.0,Female,Moderate Impairment,Moderate Impairment,Analgesic,IM,4.0,Normal,Take with Food,17.0,184.44535225224308
+59.35454923704719,0.8376581939404677,30.0,Male,,Moderate Impairment,,IM,1.0,Variant A,Take on Empty Stomach,34.0,654.925846776366
+61.61567813485596,1.1629450513842494,26.0,Female,,Severe Impairment,Antibiotic,IM,2.0,Variant A,Take on Empty Stomach,58.0,173.77347352356466
+112.12748936251037,1.4932373144467255,57.0,Male,Normal,Severe Impairment,Antihypertensive,IM,5.0,Normal,Take on Empty Stomach,25.0,59.13238379581557
+47.63362296258692,,67.0,Male,Normal,,Antidepressant,IV,4.0,Normal,None,67.0,357.1600818290295
+46.063515093968626,1.1620667924612023,65.0,Male,Moderate Impairment,Normal,Antidepressant,Oral,2.0,Variant B,Take on Empty Stomach,33.0,599.5107671714615
+75.36412157104189,0.7039302246092355,21.0,Female,Mild Impairment,Moderate Impairment,Antidepressant,Topical,1.0,Variant B,None,76.0,686.7937605801621
+73.27235313404668,1.3946351307692,18.0,Male,Mild Impairment,Normal,Chemotherapy,IV,4.0,Variant A,None,27.0,776.6612314211154
+73.00033589122052,1.3686004987429887,34.0,Female,,Mild Impairment,Analgesic,Topical,0.0,Normal,Take with Food,47.0,337.4726940730885
+76.95454854593818,1.4928501048468255,76.0,Female,Moderate Impairment,Severe Impairment,Analgesic,IV,0.0,Variant B,None,15.0,326.5139483278074
+65.6927357470267,1.1759575581985073,21.0,Female,Severe Impairment,Mild Impairment,Antidepressant,Oral,4.0,,Take with Food,45.0,
+56.8920704760379,0.9168737356111196,58.0,Female,Mild Impairment,Normal,Antidepressant,Topical,5.0,Variant A,Take with Food,63.0,708.8918503385498
+45.96066892486347,1.4198374329356536,20.0,Female,Mild Impairment,Moderate Impairment,Analgesic,IM,1.0,Variant A,None,80.0,323.5603305411967
+52.49960616579584,1.3497683561787022,22.0,Male,Moderate Impairment,Severe Impairment,Chemotherapy,Oral,1.0,,Take on Empty Stomach,14.0,628.7391411660709
+,0.7727099238190799,67.0,Male,Mild Impairment,Mild Impairment,Antidepressant,IV,4.0,Variant A,None,36.0,750.5173953920536
+68.20942849266108,,68.0,,Mild Impairment,Moderate Impairment,Analgesic,Oral,4.0,Normal,None,38.0,638.5999456151433
+41.77885624655262,0.762092163021177,48.0,Male,,Normal,Antidepressant,IM,3.0,Variant B,Take with Food,26.0,777.818614675037
+64.66477290646012,1.1500844911821106,27.0,Female,Normal,Mild Impairment,Analgesic,Topical,5.0,Variant B,None,52.0,602.2803058877624
+57.04968177970098,0.8980821187725438,63.0,Female,Severe Impairment,Mild Impairment,Antihypertensive,Topical,2.0,Variant B,Take with Food,82.0,374.8714004622627
+93.66273296480279,1.4816170455022932,39.0,Female,Moderate Impairment,Moderate Impairment,Chemotherapy,IV,,Variant A,None,17.0,486.9855340843569
+91.90980296976255,0.9534361791263901,24.0,Male,Moderate Impairment,Normal,Antibiotic,IM,2.0,,Take on Empty Stomach,50.0,504.4316871447704
+74.98779723539758,0.9050004082106675,20.0,Male,Mild Impairment,,Antidepressant,IM,3.0,Variant B,None,49.0,405.47130725090614
+97.70282851791842,1.0320687923195748,35.0,Female,Severe Impairment,Mild Impairment,Analgesic,Oral,5.0,Normal,Take on Empty Stomach,65.0,52.89290557012938
+68.37461652759626,1.4440459702249435,,Male,Normal,Moderate Impairment,Antidepressant,IM,1.0,Variant A,Take with Food,83.0,597.8738354071232
+52.12830102299588,1.0765085563322678,73.0,Male,Severe Impairment,Severe Impairment,Antibiotic,Topical,4.0,Variant B,None,71.0,166.9852760016298
+43.31003936019413,0.9309945970097014,77.0,Female,Mild Impairment,Severe Impairment,,IV,1.0,Normal,Take with Food,23.0,470.96312710256615
+43.65338259624327,1.4244329846554467,63.0,Female,Severe Impairment,Moderate Impairment,Antibiotic,IM,4.0,Normal,None,17.0,110.46605318432641
+83.15205690533267,1.4161579077093607,69.0,Female,Moderate Impairment,Normal,Antidepressant,IV,4.0,Variant B,Take on Empty Stomach,75.0,97.6507368391875
+105.64977762797797,1.1455204385156437,,Male,Moderate Impairment,Mild Impairment,Antidepressant,IV,0.0,Normal,Take on Empty Stomach,56.0,691.4769823473379
+88.30935680178266,0.7114945444302982,80.0,Male,Mild Impairment,Moderate Impairment,Antidepressant,Topical,2.0,Variant B,Take with Food,3.0,247.62921710759966
+67.14266674392962,0.8351335361532629,31.0,Female,Normal,Moderate Impairment,Analgesic,Topical,2.0,Variant B,Take on Empty Stomach,7.0,
+82.66040553941957,1.1546625382991778,73.0,Male,Normal,Moderate Impairment,Antidepressant,Oral,1.0,Variant B,None,65.0,733.9918115797094
+109.05776650295789,0.8932707630285487,22.0,Male,Moderate Impairment,Severe Impairment,Analgesic,IV,0.0,Variant B,Take with Food,30.0,127.67533119710237
+106.58234512545891,1.1473204369947176,81.0,Female,Normal,Moderate Impairment,Chemotherapy,IV,5.0,Variant B,,49.0,9.581381399081865
+90.4211727781946,0.7686372007482256,71.0,Female,Severe Impairment,Mild Impairment,Antihypertensive,Oral,0.0,Variant A,Take with Food,13.0,23.080724216429278
+90.90384997200789,1.137314690838435,64.0,Female,Normal,Severe Impairment,Antihypertensive,IV,1.0,Normal,,53.0,
+77.42898611017597,1.1428010750626467,44.0,Female,Mild Impairment,Mild Impairment,Antidepressant,Oral,2.0,Variant A,Take on Empty Stomach,16.0,722.1597179350704
+119.54713756224646,1.4064431556033408,31.0,Male,,Mild Impairment,Antibiotic,Oral,3.0,Variant A,None,44.0,350.2976435873763
+96.88057988786113,1.0486387925400305,22.0,Female,Normal,Moderate Impairment,Antihypertensive,Oral,0.0,Variant B,None,34.0,370.62234770765
+82.72344980123721,1.1907154399533226,45.0,Male,Normal,Mild Impairment,Antibiotic,Topical,5.0,Variant B,Take with Food,31.0,541.0988692010469
+112.13849044815723,0.8236754982971886,64.0,Female,Mild Impairment,Moderate Impairment,Antidepressant,IV,5.0,Normal,Take on Empty Stomach,26.0,795.4990233714229
+55.40787370408304,,66.0,Female,Mild Impairment,Mild Impairment,Antidepressant,,5.0,Variant A,Take on Empty Stomach,8.0,365.64014192884116
+46.12547502521501,0.9277504190715238,44.0,Female,Mild Impairment,Severe Impairment,Chemotherapy,Oral,2.0,Normal,Take with Food,26.0,17.09042629188438
+48.98829908105189,1.3507888918819815,40.0,Male,Severe Impairment,Normal,Analgesic,Topical,1.0,Variant B,,64.0,216.30067788162089
+,,41.0,Female,Moderate Impairment,,Antibiotic,IV,2.0,Normal,Take with Food,67.0,579.6170968207607
+43.134453048892205,1.1589963650480832,37.0,Male,Mild Impairment,Mild Impairment,Chemotherapy,Topical,3.0,Variant A,None,58.0,417.6172255612122
+89.41299911141626,0.786866060601071,83.0,Female,Mild Impairment,Normal,Antihypertensive,Oral,2.0,Variant B,Take with Food,16.0,306.04757705586263
+109.34705609684363,0.9853222727939062,19.0,Male,Mild Impairment,Normal,Antibiotic,IV,0.0,Variant B,Take on Empty Stomach,6.0,214.3019988487766
+80.18135956817474,1.1557748993141603,53.0,Female,Normal,Mild Impairment,Antibiotic,Oral,0.0,Variant B,Take on Empty Stomach,67.0,313.88768078277127
+60.61513696616117,1.0436219625304068,53.0,Male,Mild Impairment,Severe Impairment,Chemotherapy,IV,5.0,,Take on Empty Stomach,37.0,138.14036102264134
+101.75732887613617,1.296049013948614,37.0,Male,Severe Impairment,Moderate Impairment,Antibiotic,IV,2.0,Variant B,Take on Empty Stomach,39.0,162.1786669548159
+116.14224794823372,1.4673352519036518,27.0,Male,Normal,Normal,Antihypertensive,IV,,Variant A,None,45.0,419.38276217528227
+51.29980493829806,0.8343085267724598,46.0,Female,Mild Impairment,Moderate Impairment,Analgesic,IM,2.0,Variant A,Take with Food,85.0,760.8153650129791
+98.53425656586182,1.1493851175242522,69.0,Female,Moderate Impairment,Mild Impairment,Antibiotic,IM,2.0,Variant A,Take with Food,65.0,582.8801126483033
+99.91811843864936,0.948246087947667,56.0,Male,Severe Impairment,Moderate Impairment,Antihypertensive,Topical,1.0,Variant B,None,48.0,275.4452242107144
+90.0805341062455,0.9671615706815933,38.0,Female,Normal,Normal,Antibiotic,Topical,2.0,Variant B,Take on Empty Stomach,38.0,313.2343550962211
+64.37324569671699,0.9973829586970132,26.0,Male,Mild Impairment,Normal,Chemotherapy,IV,0.0,Variant B,Take with Food,66.0,
+49.42304780403071,1.1436997380805471,78.0,Male,Normal,Mild Impairment,Antidepressant,IV,0.0,Variant B,Take with Food,65.0,523.3953734240747
+42.799326717383266,,36.0,Male,Normal,Normal,Analgesic,Oral,5.0,Normal,Take with Food,39.0,675.2086805442286
+98.7190258059864,1.454464088074771,42.0,,Severe Impairment,Normal,Antibiotic,Oral,5.0,Variant A,Take on Empty Stomach,35.0,426.1924316348682
+89.44195272119809,,42.0,Female,Normal,Severe Impairment,Antibiotic,IM,3.0,,Take with Food,74.0,181.46270193299682
+65.09263949440822,0.762704146740755,26.0,Female,Moderate Impairment,Normal,Chemotherapy,IV,2.0,Normal,Take with Food,15.0,705.8266534712554
+59.13354814772475,0.9761769911931072,23.0,Female,Moderate Impairment,Moderate Impairment,Antidepressant,IV,2.0,Normal,None,15.0,77.73887584829176
+80.81992101030107,1.2031716631388223,34.0,Male,Mild Impairment,Moderate Impairment,Antibiotic,,5.0,Normal,Take with Food,22.0,193.76446104079997
+40.87628192320593,1.4395897937413658,30.0,Female,Severe Impairment,Severe Impairment,,Topical,5.0,Variant B,Take on Empty Stomach,56.0,399.3848072114256
+80.52340446979454,1.0623199087932325,34.0,Female,Moderate Impairment,Severe Impairment,Analgesic,Topical,5.0,Variant B,Take with Food,86.0,124.66750569782319
+77.78577040961741,0.9422089750632142,55.0,Male,Mild Impairment,Moderate Impairment,Antihypertensive,IM,0.0,Variant B,Take on Empty Stomach,69.0,450.53081915478344
+67.79566447050739,1.1588754045940601,27.0,Female,Normal,Severe Impairment,Analgesic,IV,0.0,Variant A,Take on Empty Stomach,48.0,266.4065515505877
+60.43800854696859,0.8947676843210384,36.0,Male,Normal,Moderate Impairment,Analgesic,IV,1.0,Variant A,Take with Food,1.0,316.1858531753497
+57.67624573995918,0.9207729093316405,38.0,Female,Mild Impairment,Normal,Antibiotic,Topical,3.0,Variant A,Take on Empty Stomach,44.0,361.0155665929533
+63.58753944638822,1.1691923131872795,46.0,Male,Moderate Impairment,Moderate Impairment,Chemotherapy,IM,0.0,Normal,Take with Food,68.0,546.0315813569213
+70.80696903275744,0.8396274207864041,79.0,Female,Normal,Moderate Impairment,Chemotherapy,IM,1.0,Normal,None,80.0,129.055137580811
+82.37483054393559,,26.0,Female,Moderate Impairment,Severe Impairment,Antihypertensive,IM,2.0,Variant B,Take on Empty Stomach,67.0,774.5760135728032
+110.30492142567515,1.348525379300043,68.0,Female,Normal,Severe Impairment,Analgesic,IM,2.0,Normal,Take with Food,1.0,144.99219180939502
+41.51637379394878,1.1210705823323666,53.0,Female,Moderate Impairment,Mild Impairment,Chemotherapy,IV,1.0,Variant B,Take with Food,34.0,188.94317305001493
+45.76045538292203,0.83715299520785,18.0,Female,Normal,Mild Impairment,Antihypertensive,Oral,0.0,Normal,Take with Food,33.0,6.358514525647076
+109.68428379224267,0.7578758176775964,24.0,Male,Mild Impairment,Severe Impairment,Antibiotic,Topical,,Variant B,,,771.4060890477054
+90.24369196795396,0.7001268698898478,61.0,Male,,Normal,Antibiotic,IV,5.0,Normal,None,,357.2094842458002
+42.32891596092651,0.7085561480216244,70.0,Female,Moderate Impairment,Moderate Impairment,Analgesic,Oral,2.0,Normal,Take with Food,9.0,446.4493081220417
+98.7784872402938,1.303289831525075,48.0,Male,Normal,Mild Impairment,Chemotherapy,IV,5.0,Variant B,Take with Food,50.0,787.8684086457977
+96.94579885418615,1.0251221192967241,27.0,Male,Moderate Impairment,Moderate Impairment,Analgesic,Oral,5.0,Variant B,Take with Food,83.0,671.4597375346715
+73.20114014840911,0.7920925716942714,26.0,Female,,Severe Impairment,Analgesic,Oral,0.0,,None,85.0,743.2179435553527
+106.48460470612636,1.0673787988322434,38.0,Male,Moderate Impairment,Severe Impairment,Analgesic,Topical,5.0,Normal,Take on Empty Stomach,63.0,641.2307357860224
+71.69817583978109,1.4298693083983174,54.0,Male,Severe Impairment,Severe Impairment,Antihypertensive,Topical,1.0,Normal,None,7.0,517.5860363325834
+51.199791475845075,1.0211127762959107,52.0,Male,Severe Impairment,Severe Impairment,Antibiotic,IM,2.0,Variant B,None,,281.6440340146072
+58.93116480590547,0.7187344483545558,44.0,,Severe Impairment,Moderate Impairment,Antibiotic,IV,5.0,Variant B,None,40.0,177.04095248664458
+58.39183307780361,0.8692946115343706,39.0,Male,Normal,Moderate Impairment,Analgesic,Topical,3.0,Normal,Take on Empty Stomach,54.0,341.6930689050496
+103.53870796444431,1.1881330755260926,61.0,Male,Severe Impairment,Moderate Impairment,Antibiotic,Topical,2.0,Variant B,Take on Empty Stomach,88.0,678.5442863684904
+41.15250213084978,0.8932174469158873,,Female,,Moderate Impairment,Antidepressant,IM,5.0,Variant B,Take on Empty Stomach,87.0,780.1749188650084
+101.08850251486292,,70.0,Female,Normal,Normal,Chemotherapy,Topical,5.0,Normal,Take on Empty Stomach,4.0,744.4885348917849
+100.69187390625396,1.3823329385036214,55.0,Female,Mild Impairment,Mild Impairment,Antibiotic,IV,3.0,Variant A,Take on Empty Stomach,13.0,350.5638827322291
+113.50648639970657,1.268053968841735,,Female,Severe Impairment,Mild Impairment,Analgesic,IV,,Normal,Take on Empty Stomach,13.0,155.2670601338037
+119.33054903858782,0.9226677607874826,67.0,Female,,Moderate Impairment,Antibiotic,IM,5.0,Variant B,Take on Empty Stomach,52.0,313.2082511202938
+81.55090272341594,0.7658533623682988,47.0,Male,Moderate Impairment,Severe Impairment,Antidepressant,Topical,0.0,Variant B,Take with Food,76.0,769.126813912784
+90.14315808649643,1.3292081802851647,62.0,Female,Moderate Impairment,Moderate Impairment,Chemotherapy,Oral,0.0,Variant A,None,26.0,
+75.29980044257735,0.8589252364584027,23.0,Female,Moderate Impairment,Severe Impairment,Antihypertensive,Oral,5.0,Variant B,,41.0,352.4088716093495
+54.41785993991375,1.3360177153593054,70.0,Male,Normal,Mild Impairment,Chemotherapy,Oral,4.0,Normal,Take on Empty Stomach,70.0,144.1903599271057
+74.06812078905087,1.3468708992692147,55.0,Female,Severe Impairment,Severe Impairment,Analgesic,Oral,4.0,Normal,None,6.0,
+53.63439000278699,1.2942125705340581,78.0,Male,Severe Impairment,Moderate Impairment,Antidepressant,IV,3.0,Variant B,None,,523.0595406527186
+92.77456711879299,0.7715272520844128,,Female,Severe Impairment,Mild Impairment,Antidepressant,IM,3.0,,None,63.0,215.80565138025602
+113.39446034751538,0.9446847512786968,37.0,Male,Moderate Impairment,Mild Impairment,,IV,1.0,Normal,Take with Food,31.0,614.2880596724631
+63.716958570278244,0.7718285746205867,55.0,Male,,Severe Impairment,Chemotherapy,Oral,1.0,Variant A,Take on Empty Stomach,4.0,760.6526294816038
+72.49600106857245,1.1742929461047493,54.0,Male,Moderate Impairment,Mild Impairment,Chemotherapy,Topical,1.0,Variant B,Take on Empty Stomach,82.0,152.9611167792727
+63.670271585278755,,34.0,Female,Normal,Normal,Antidepressant,Topical,5.0,Variant A,Take with Food,55.0,162.69204427306704
+,1.2654914975082274,60.0,Female,Normal,Mild Impairment,Chemotherapy,IV,5.0,Variant A,None,55.0,580.9949368922828
+58.84203380263325,1.4017063918673247,73.0,Female,Normal,Normal,Antidepressant,IM,2.0,Variant A,,39.0,64.60772883216418
+104.17716430143483,0.7037333263203658,18.0,Female,,Normal,Antidepressant,IV,5.0,Variant B,Take with Food,45.0,432.11882504298956
+119.92648173908528,,65.0,Female,Normal,Severe Impairment,Analgesic,IM,3.0,Variant A,Take with Food,,280.31460250442393
+64.18988560352975,0.7884523722415334,65.0,Female,Severe Impairment,Moderate Impairment,Chemotherapy,IM,1.0,Normal,None,17.0,174.77306939552756
+62.20580227038908,0.7410113820798798,55.0,Male,Severe Impairment,Mild Impairment,Antidepressant,Oral,3.0,Normal,Take on Empty Stomach,18.0,256.23009349217455
+101.59383542547458,1.1432725346760502,20.0,Female,Moderate Impairment,Mild Impairment,Antihypertensive,Oral,2.0,Normal,,50.0,562.5192897540854
+89.33685883252761,0.8072322168908793,37.0,Male,Severe Impairment,Moderate Impairment,Antidepressant,IM,0.0,Normal,Take on Empty Stomach,71.0,319.11067420159156
+111.75853400022889,0.7533894197823683,44.0,Male,Mild Impairment,Severe Impairment,Antibiotic,Topical,2.0,Normal,Take with Food,43.0,677.9738788391969
+110.78476723396462,0.8398327362467305,63.0,Female,,Normal,Antibiotic,,2.0,Variant A,Take with Food,11.0,674.8220389951459
+91.8878004029716,1.1338099049387809,72.0,Male,Mild Impairment,Moderate Impairment,Antidepressant,IM,5.0,Variant A,None,31.0,518.6236901889607
+40.388323972824736,1.3305521078877238,,Female,Severe Impairment,,Antibiotic,Oral,1.0,Variant B,None,11.0,496.3267436217525
+73.83932988496679,1.1199248923356995,84.0,Female,,Severe Impairment,Antibiotic,IV,,Normal,None,,64.96087720062106
+102.35418890403173,0.8544754158111596,47.0,Male,Normal,,Antibiotic,IV,5.0,Normal,Take with Food,62.0,638.3967278531367
+54.88931911906935,1.182815828430688,29.0,Male,Moderate Impairment,Mild Impairment,Antibiotic,Oral,2.0,Normal,Take on Empty Stomach,75.0,732.7622045960215
+73.80687661966982,0.8700865234120023,78.0,Female,Severe Impairment,Mild Impairment,Antibiotic,Oral,2.0,Variant B,Take with Food,84.0,673.4325098458758
+90.35059800175111,1.2697530478942953,30.0,Female,Mild Impairment,Mild Impairment,Antihypertensive,Oral,3.0,Variant B,Take on Empty Stomach,24.0,183.20757215937368
+51.082794127335774,,42.0,Female,Severe Impairment,,Antihypertensive,IM,2.0,,Take with Food,86.0,139.54333904019467
+82.90464036407214,0.9088486292939773,61.0,Male,Mild Impairment,Mild Impairment,Antibiotic,Oral,1.0,Variant B,None,,328.74199210993004
+49.73274409941885,1.3960243296260422,49.0,Male,Moderate Impairment,Severe Impairment,Antidepressant,Oral,5.0,Normal,Take on Empty Stomach,48.0,737.1567936431356
+111.68693202101582,0.7084445874565723,45.0,Male,Severe Impairment,Moderate Impairment,Antibiotic,Topical,5.0,Variant A,None,28.0,
+83.65850110255867,1.424074882723856,31.0,Male,Moderate Impairment,Moderate Impairment,Chemotherapy,Oral,0.0,Variant B,Take on Empty Stomach,8.0,348.09562680706017
+50.39811316332985,1.3530863471031565,33.0,Male,Moderate Impairment,Moderate Impairment,Antidepressant,IM,5.0,Normal,Take on Empty Stomach,88.0,166.59592357948722
+100.15474708952954,1.4205029199192896,49.0,Female,Normal,Mild Impairment,Antibiotic,Topical,1.0,Normal,None,31.0,626.4728030868891
+89.61572175352022,0.8154362007103502,74.0,Female,Moderate Impairment,,Chemotherapy,IV,,Variant B,Take on Empty Stomach,78.0,617.7158336434902
+88.90449952664625,0.8678668379985988,65.0,Male,Normal,Severe Impairment,Antidepressant,IM,1.0,Variant B,,22.0,217.08329740708234
+111.32208324277819,0.8266168323402708,50.0,Female,Moderate Impairment,Moderate Impairment,Chemotherapy,IV,1.0,Normal,Take on Empty Stomach,28.0,534.9860952674898
+84.66819681372814,0.9138747543457422,37.0,Female,Moderate Impairment,Mild Impairment,Antidepressant,Topical,3.0,Variant B,None,84.0,
+118.14028884854568,0.8266276072317202,80.0,Male,Severe Impairment,Normal,Chemotherapy,Oral,2.0,Variant B,,,625.4932894931005
+61.50213328937064,1.2446775080619745,59.0,Female,Normal,Moderate Impairment,Antihypertensive,Topical,1.0,Variant B,Take with Food,31.0,28.24519823632709
+81.16437728089898,1.4857896743210188,49.0,Female,Normal,Mild Impairment,Chemotherapy,IM,3.0,Normal,Take on Empty Stomach,25.0,706.3042823627881
+98.22656817935211,1.2335235972707115,20.0,Male,Severe Impairment,Mild Impairment,Antihypertensive,IM,0.0,Variant B,Take with Food,,437.1541272156141
+76.46945387109518,1.4462669497932137,34.0,Male,Normal,Severe Impairment,Antibiotic,IM,3.0,Normal,Take on Empty Stomach,82.0,161.47705610460736
+115.2846826295573,1.0596218805953042,52.0,Female,Moderate Impairment,Moderate Impairment,Antibiotic,,3.0,Variant A,Take with Food,31.0,475.4983514434437
+68.07845417690294,0.705616973183895,40.0,Female,Mild Impairment,Moderate Impairment,Antidepressant,Topical,5.0,Variant A,,19.0,582.373282117746
+83.71865501362144,,26.0,Male,Normal,Severe Impairment,Analgesic,Topical,2.0,Variant A,Take with Food,39.0,592.5391269475896
+49.89379820765074,1.2116422455959626,19.0,Male,Mild Impairment,Moderate Impairment,Antibiotic,Oral,2.0,Variant A,Take on Empty Stomach,49.0,760.5445495590329
+79.96536342425833,0.7586943858407427,37.0,Male,Normal,Moderate Impairment,Antidepressant,IV,2.0,Normal,None,1.0,312.8719013082715
+53.49660116694767,1.4155043689397293,37.0,,Moderate Impairment,Normal,Antihypertensive,,4.0,Normal,Take with Food,15.0,
+98.49445468017436,0.7471044891327443,56.0,Male,Mild Impairment,Moderate Impairment,Antihypertensive,IV,3.0,Variant A,Take with Food,33.0,40.64628365305051
+102.43715596840121,1.2428671380123815,56.0,Male,Moderate Impairment,Mild Impairment,Analgesic,Oral,3.0,Variant B,Take with Food,80.0,248.8174369586834
+68.42733568798388,0.8524244945865183,,Male,Moderate Impairment,Mild Impairment,Antihypertensive,Oral,0.0,Variant B,Take with Food,13.0,418.74493750799184
+59.784015610080004,1.0128176002405074,43.0,Male,Normal,Normal,Antidepressant,Topical,1.0,Variant B,Take with Food,84.0,689.8715364855409
+48.70620403014675,0.8664694353698144,28.0,Female,Severe Impairment,Normal,Chemotherapy,Topical,0.0,Normal,None,24.0,391.90471983301705
+72.25882387665287,0.7364298889831178,57.0,Male,Mild Impairment,Moderate Impairment,Antidepressant,IM,5.0,Variant B,Take on Empty Stomach,10.0,479.7514255402425
+62.737455809150056,1.2123171381363922,73.0,Male,Normal,Normal,Antidepressant,IM,3.0,Variant B,Take with Food,50.0,190.71292628999552
+64.5130779309593,,36.0,Female,Moderate Impairment,Normal,Chemotherapy,Topical,5.0,Variant B,,85.0,231.87855849235527
+118.92094593114939,0.9552079917859667,22.0,Female,Mild Impairment,Mild Impairment,Antihypertensive,Oral,5.0,Normal,None,86.0,557.817388397018
+76.0687393451417,1.0277885491149168,69.0,Male,Mild Impairment,Severe Impairment,Antibiotic,Oral,0.0,Variant B,None,23.0,
+71.52548023827549,0.8719920261872401,56.0,Female,Mild Impairment,Mild Impairment,Antidepressant,Topical,4.0,Normal,Take with Food,33.0,718.3110292050378
+51.88214736087498,1.2217320137960446,82.0,Female,Moderate Impairment,Mild Impairment,Antibiotic,IM,5.0,Variant B,None,28.0,619.3200698882509
+40.533190429468476,1.1607623308761543,56.0,Female,Normal,Mild Impairment,Antidepressant,IM,3.0,,None,60.0,130.63910979264654
+113.63906056380206,1.2035505379452713,84.0,Female,Normal,Mild Impairment,Analgesic,IM,0.0,Normal,Take with Food,83.0,645.8269502022813
+50.23350745766518,1.1552275454974175,40.0,Female,Mild Impairment,Moderate Impairment,Analgesic,IV,,Variant A,None,57.0,611.4476153917353
+114.84033946846034,1.4215741905916794,84.0,Male,Mild Impairment,Normal,Antihypertensive,IM,4.0,Variant B,Take on Empty Stomach,88.0,78.11740971431111
+86.33584689194166,,22.0,Female,Moderate Impairment,Severe Impairment,Antidepressant,IM,,Normal,Take with Food,46.0,191.10644796728997
+62.506208945702895,1.0212002151735202,51.0,Male,Mild Impairment,Severe Impairment,Antidepressant,IM,3.0,Variant B,None,86.0,279.8483540082004
+45.751635400534674,0.9628097002978498,77.0,Female,,Severe Impairment,Antidepressant,Topical,3.0,Variant A,Take on Empty Stomach,13.0,
+81.47557464838039,1.4360217771711459,28.0,Male,,Severe Impairment,Antidepressant,Topical,1.0,Normal,None,40.0,249.60712151406196
+115.292406854305,1.0267814086380547,78.0,,Severe Impairment,Severe Impairment,Antidepressant,IV,3.0,Variant B,None,53.0,98.20976259255532
+,0.8962914548257654,71.0,Male,,Moderate Impairment,Chemotherapy,IM,0.0,Variant B,Take on Empty Stomach,39.0,40.44341486025143
+46.33985771602209,1.175232181858891,55.0,Female,Moderate Impairment,Severe Impairment,Antibiotic,Topical,3.0,Variant B,None,66.0,
+116.89098134805775,1.1685697777844082,66.0,Male,,Severe Impairment,Antidepressant,Topical,,,Take on Empty Stomach,52.0,155.5431731571731
+58.37966570023359,0.7306450640995861,32.0,Female,Moderate Impairment,Moderate Impairment,Antidepressant,IV,2.0,Normal,Take on Empty Stomach,3.0,686.2183218067338
+72.12616258399646,1.1824639260496048,59.0,Male,Severe Impairment,Mild Impairment,Antihypertensive,IV,2.0,Variant A,Take on Empty Stomach,,786.1054083623999
+84.67307660055323,1.4478940442348662,49.0,Male,Moderate Impairment,Severe Impairment,Antihypertensive,IM,1.0,,Take with Food,75.0,277.0883233757821
+44.59305492644908,0.9343612275190101,82.0,Male,Normal,Normal,Antidepressant,Oral,1.0,Variant B,Take on Empty Stomach,74.0,733.3100615008567
+100.94042253698794,0.8278543586535967,36.0,,Severe Impairment,Mild Impairment,Analgesic,Topical,4.0,Variant B,Take on Empty Stomach,5.0,504.0320939324808
+57.51912414809833,1.0002456341053712,79.0,Female,Severe Impairment,Mild Impairment,Antibiotic,Topical,5.0,Variant B,None,77.0,353.195221244766
+119.30794611712317,0.7252167745756886,44.0,Female,Mild Impairment,Moderate Impairment,Analgesic,Topical,0.0,Normal,Take on Empty Stomach,22.0,39.39253576727441
+50.54695278185727,0.896772987916974,83.0,Female,Severe Impairment,Mild Impairment,Antibiotic,Oral,4.0,Normal,Take on Empty Stomach,15.0,318.0094673612284
+84.49114953630212,0.739534232017943,54.0,Male,Mild Impairment,Mild Impairment,Antidepressant,Topical,2.0,,None,20.0,674.2888330313343
+106.25666009843115,1.2568804177347288,69.0,Female,Moderate Impairment,Mild Impairment,Antidepressant,Oral,5.0,Variant B,None,63.0,644.288606894794
+72.01660180057723,0.8908951073364673,61.0,Female,Moderate Impairment,Severe Impairment,Chemotherapy,IM,4.0,Variant A,Take with Food,70.0,775.6227950060568
+103.37115599195647,1.2151201013868205,45.0,Male,Severe Impairment,Moderate Impairment,Antihypertensive,Topical,4.0,Variant B,Take on Empty Stomach,57.0,580.7049657771022
+99.4401175692732,1.3647997458798293,23.0,Male,Mild Impairment,Normal,Analgesic,IM,2.0,Variant B,None,85.0,517.6163294540108
+104.41805289810259,1.152386616372207,26.0,Female,Severe Impairment,Moderate Impairment,Antihypertensive,IV,0.0,Normal,Take with Food,4.0,483.3696684816587
+96.35709109570124,,65.0,Male,Severe Impairment,Severe Impairment,Antihypertensive,Oral,2.0,Variant B,Take on Empty Stomach,4.0,116.55047991271863
+92.24661334378185,1.4348375666256001,52.0,Male,,Severe Impairment,Antidepressant,Topical,1.0,Variant B,Take with Food,44.0,45.50391055893602
+79.13154269461536,0.8485345161367788,60.0,Female,Severe Impairment,Moderate Impairment,Chemotherapy,Topical,2.0,Variant B,Take with Food,19.0,365.646486718786
+56.58346715344812,0.9016937885328276,,Male,Severe Impairment,Normal,Antibiotic,Topical,3.0,,None,76.0,710.3098358934279
+67.63923895970211,0.7250149770116608,56.0,,Normal,Normal,Antihypertensive,IV,0.0,Variant A,None,57.0,763.260227874014
+59.50714565271839,0.9634138474618454,41.0,Male,Normal,Severe Impairment,Chemotherapy,IM,3.0,Normal,Take with Food,46.0,735.9525700443908
+98.34092913967956,0.7142099265070896,44.0,Male,Moderate Impairment,Severe Impairment,Antibiotic,IV,5.0,,Take with Food,33.0,171.24433933195243
+78.9470039127454,1.080263033445053,24.0,Female,Mild Impairment,,Antihypertensive,IV,3.0,Variant A,,70.0,516.441401451362
+68.93819045198461,1.3372098803600239,25.0,Male,Severe Impairment,Severe Impairment,Antihypertensive,IV,3.0,Variant A,Take on Empty Stomach,5.0,694.3378109754649
+98.26926552480123,1.0251910806483497,21.0,Male,Moderate Impairment,Severe Impairment,Antibiotic,IV,0.0,Variant A,None,69.0,11.194654778441167
+89.8105881750076,1.257856641156629,,Male,Moderate Impairment,Mild Impairment,Chemotherapy,Oral,0.0,Normal,None,60.0,
+82.38321239694851,0.8868856752576404,62.0,Male,Moderate Impairment,Normal,Antihypertensive,Oral,5.0,Normal,Take with Food,24.0,736.3350679307293
+41.378416525075146,0.9304713307429131,24.0,Female,Mild Impairment,Mild Impairment,Analgesic,Topical,1.0,Variant B,Take on Empty Stomach,27.0,775.4360424215296
+112.00496270735319,1.2962104117316267,60.0,Female,Severe Impairment,Severe Impairment,Antibiotic,IM,4.0,Normal,Take on Empty Stomach,52.0,8.072853506873694
+93.06689051372555,1.0671465449231472,79.0,Male,Normal,Mild Impairment,Antibiotic,IM,4.0,Variant B,Take on Empty Stomach,70.0,260.2498370773767
+68.65429478363866,0.7603846721755718,59.0,Female,Moderate Impairment,Normal,,Oral,1.0,Variant B,Take with Food,44.0,651.4824048043308
+119.14309872877621,0.7473920871630996,29.0,Female,Normal,,Antidepressant,Oral,3.0,Variant A,Take on Empty Stomach,66.0,66.75473564713539
+68.13650659402448,1.1528551539354615,42.0,Female,Mild Impairment,Normal,Antibiotic,Oral,1.0,Variant A,Take on Empty Stomach,50.0,385.9549071379645
+93.66619228342897,0.8332339869998543,18.0,Male,Severe Impairment,Severe Impairment,Antibiotic,IV,2.0,Variant B,Take on Empty Stomach,57.0,757.3257579520804
+47.96517775859818,0.8922782725585744,60.0,Female,Mild Impairment,Normal,Analgesic,Oral,5.0,Variant B,Take with Food,63.0,522.1594465726258
+,1.413359250914149,48.0,Male,Mild Impairment,Severe Impairment,Antihypertensive,Oral,4.0,Variant B,Take with Food,37.0,728.4668460110703
+96.97191651573416,1.268389557319112,42.0,Female,Normal,Moderate Impairment,Chemotherapy,Oral,0.0,,,84.0,548.6446025798936
+55.82421844316592,0.7448209734573862,25.0,Female,Mild Impairment,Moderate Impairment,Antibiotic,Oral,5.0,Variant B,None,75.0,796.0391041900511
+93.72996375793812,1.0800036521539487,46.0,Female,Normal,Moderate Impairment,Antidepressant,IM,5.0,Normal,None,77.0,147.90469434555465
+51.849737052949045,1.2876392086834945,29.0,Male,Moderate Impairment,Normal,Analgesic,Oral,1.0,Variant B,Take with Food,87.0,13.856717331866323
+119.80443751653473,1.135653351042625,65.0,Male,Normal,Severe Impairment,Antihypertensive,IV,0.0,Variant B,Take with Food,78.0,120.47920029778696
+45.92751931287954,0.9586857152819066,74.0,Male,Normal,Severe Impairment,Analgesic,Topical,3.0,Variant A,,48.0,423.9515684713048
+78.7037464905381,0.7617466351721808,24.0,Female,Mild Impairment,Normal,Antibiotic,IM,0.0,Variant B,Take on Empty Stomach,11.0,255.0132070974184
+115.82975610510857,1.3530868603643358,20.0,Male,Moderate Impairment,Severe Impairment,Chemotherapy,IV,4.0,Variant B,Take with Food,72.0,86.25535292550117
+92.25115438834393,0.9788889531906779,32.0,Male,Normal,Normal,Antidepressant,IV,5.0,Variant A,Take with Food,84.0,52.452874177507766
+66.40437945110263,0.9545782546548158,70.0,Female,Severe Impairment,Moderate Impairment,Antidepressant,IV,2.0,Variant A,None,84.0,24.013128676396377
+91.58042386430157,1.0969820174877083,60.0,Male,Normal,Normal,Antidepressant,IV,2.0,Variant B,Take on Empty Stomach,7.0,84.959540378084
+98.59458594692025,0.8843621984705009,73.0,Male,Moderate Impairment,Severe Impairment,Antihypertensive,Topical,1.0,Variant B,None,63.0,572.9556373309127
+78.71998618972555,0.8413889300752253,71.0,Female,Moderate Impairment,Severe Impairment,Chemotherapy,IM,2.0,Variant B,Take with Food,,635.6971272130129
+,0.8463782809675034,,Male,Severe Impairment,Severe Impairment,Antihypertensive,Oral,0.0,Normal,Take on Empty Stomach,89.0,609.7340670957183
+118.85153467830386,1.4260388275963873,38.0,Male,Severe Impairment,Moderate Impairment,Chemotherapy,IM,,Normal,Take with Food,86.0,464.7056967348853
+77.81751877231234,1.1536398739386087,67.0,Male,Severe Impairment,Normal,Antibiotic,IM,1.0,Variant B,Take with Food,2.0,418.36187798415745
+54.907059797967186,1.486240098604752,79.0,Female,Normal,Moderate Impairment,Antihypertensive,Oral,0.0,Variant B,Take with Food,41.0,799.8596487705329
+99.25433072709998,1.0545349262035864,45.0,Male,Normal,Moderate Impairment,Chemotherapy,IV,5.0,Normal,None,44.0,720.3073339639013
+65.52888341769814,0.7689119815202022,33.0,Female,Moderate Impairment,Normal,Antihypertensive,Oral,5.0,Variant B,Take with Food,80.0,254.26646572550194
+55.66069791190692,1.4487679031209966,37.0,Male,Normal,Moderate Impairment,Chemotherapy,IM,4.0,Normal,Take with Food,74.0,190.4303159562073
+,1.0127969464830502,38.0,Female,Severe Impairment,Normal,,IV,4.0,Variant B,Take with Food,79.0,297.3074944241387
+59.50291728536882,0.7774493059007335,78.0,Female,Severe Impairment,Moderate Impairment,Antihypertensive,,1.0,Variant B,Take on Empty Stomach,39.0,406.5170454143734
+74.18397774653765,1.1600690884551752,64.0,Female,Severe Impairment,Moderate Impairment,Antidepressant,Oral,,Variant A,None,75.0,227.74882010845312
+89.50824437615178,1.0683673623767378,38.0,Female,Mild Impairment,Moderate Impairment,,IV,2.0,Variant A,Take on Empty Stomach,84.0,430.9758653571438
+90.1453983182461,0.8374105786951149,79.0,Male,Severe Impairment,Mild Impairment,Chemotherapy,IM,2.0,Variant A,,,428.2275130900319
+62.78676065803313,1.3419250825813451,49.0,Female,,Moderate Impairment,Antihypertensive,IM,5.0,Normal,Take on Empty Stomach,,211.1121431664912
+84.2615358929552,0.7346950565161694,69.0,Male,Moderate Impairment,Normal,Chemotherapy,IM,3.0,Variant A,Take on Empty Stomach,71.0,65.61110323000409
+62.43040087472839,1.1698354741782837,32.0,Female,Severe Impairment,,Antibiotic,Oral,0.0,Variant B,Take on Empty Stomach,72.0,370.19346806073196
+94.43420628403469,0.8981255825815744,41.0,Male,Severe Impairment,Severe Impairment,Antihypertensive,Oral,2.0,Variant A,None,41.0,371.6174000425148
+75.67603828074908,1.2944946313121966,21.0,Male,Severe Impairment,Mild Impairment,Antibiotic,IM,0.0,Variant A,None,,18.677090465506595
+49.723739921889496,1.1619735259925137,56.0,Male,Mild Impairment,,Antibiotic,Oral,0.0,Variant B,None,20.0,586.2805363931267
+59.44745262730798,0.8105906158337258,39.0,Female,Mild Impairment,Mild Impairment,Chemotherapy,IM,0.0,Normal,,33.0,294.27401977198366
+106.12686370891501,0.8138858789299414,23.0,Female,Normal,Mild Impairment,Antibiotic,IM,4.0,Variant A,None,22.0,456.70007133873924
+80.55440173564014,1.439315968340506,42.0,Female,Severe Impairment,,Antihypertensive,IV,2.0,Normal,Take on Empty Stomach,64.0,15.880968591496622
+47.79534319330578,1.3920766941186433,62.0,Female,Moderate Impairment,Mild Impairment,Analgesic,IM,4.0,Variant A,Take on Empty Stomach,35.0,82.52515171902658
+64.09902941276897,1.185350095451482,18.0,Female,Severe Impairment,Mild Impairment,Antidepressant,IM,0.0,Variant A,None,11.0,260.70015646719946
+83.09141562206193,1.467547193094478,29.0,Female,Normal,Normal,Antihypertensive,IM,1.0,Variant A,Take with Food,22.0,773.5754063836828
+96.61688670102315,0.9094346647745061,39.0,Female,Normal,Severe Impairment,Antidepressant,IV,1.0,Normal,None,49.0,714.8480685570435
+71.90537231761174,0.8405173406483502,36.0,Male,Mild Impairment,Normal,Chemotherapy,Oral,4.0,,Take with Food,2.0,782.0437492459067
+98.23048762521401,1.48906088972747,80.0,Female,Moderate Impairment,Moderate Impairment,Antibiotic,IM,4.0,Variant B,Take with Food,4.0,353.6772863849967
+84.71024619533424,1.300387941134362,27.0,Female,Severe Impairment,Normal,Antibiotic,Oral,3.0,Variant A,Take with Food,17.0,23.554989288283505
+104.38312204260197,0.7574753362595232,84.0,Male,Moderate Impairment,Moderate Impairment,Antidepressant,IM,2.0,Normal,Take with Food,43.0,347.10413924188043
+98.30314409455823,1.0742061921468924,18.0,Male,Severe Impairment,Severe Impairment,Antihypertensive,IV,3.0,Normal,Take with Food,75.0,348.7716898077537
+77.45236625900247,1.143113079131784,32.0,,Mild Impairment,Mild Impairment,Antibiotic,Oral,3.0,Variant B,Take on Empty Stomach,15.0,782.3164289113605
+93.43042432998735,0.9827164786271929,77.0,Female,Moderate Impairment,Moderate Impairment,Chemotherapy,Oral,2.0,Variant A,None,71.0,97.6770606092371
+108.91038139988079,1.3817668825098859,24.0,Male,Mild Impairment,Mild Impairment,Antidepressant,Topical,3.0,Normal,None,13.0,94.17825771388502
+,1.4436393142894728,67.0,Female,Normal,Moderate Impairment,Antidepressant,,3.0,Normal,None,18.0,332.87069031057126
+41.1426601253158,1.0104255311062786,18.0,Male,Normal,Normal,Chemotherapy,Topical,0.0,Variant A,Take on Empty Stomach,74.0,533.9471544609173
+53.405846495905465,0.725978260018616,58.0,Male,,Mild Impairment,Antibiotic,Topical,1.0,Normal,None,3.0,655.6328298563213
+107.74298019377012,1.3501092421573353,38.0,Male,Normal,Normal,Antidepressant,Oral,5.0,Variant B,Take on Empty Stomach,17.0,518.1148581277871
+61.45666800932289,0.7139410710790299,45.0,Male,Moderate Impairment,Severe Impairment,Analgesic,Oral,5.0,Normal,Take on Empty Stomach,36.0,722.0513406565532
+59.09041138411873,1.361735580726739,74.0,Male,Normal,,Antihypertensive,Oral,4.0,Variant B,Take with Food,10.0,285.53518042875925
+,1.105230733389407,60.0,Female,Severe Impairment,Moderate Impairment,Antihypertensive,IM,2.0,Normal,,72.0,542.3395481119321
+,1.0726586356705372,,Female,Severe Impairment,Normal,Antidepressant,Topical,2.0,Variant A,Take on Empty Stomach,37.0,420.0499038287135
+54.575443115748634,0.9928205027272943,64.0,Male,Severe Impairment,,Chemotherapy,Topical,5.0,Variant A,Take with Food,83.0,206.33358448886875
+61.71411928825876,1.3255728431754417,79.0,Male,Mild Impairment,Mild Impairment,Antihypertensive,Oral,1.0,Normal,Take on Empty Stomach,75.0,
+106.94368230004523,1.324891692248102,67.0,Female,Normal,Mild Impairment,Antibiotic,Topical,5.0,Variant B,Take on Empty Stomach,26.0,583.0041977735003
+102.93223015613299,1.4386179904449707,47.0,,Severe Impairment,Normal,Antidepressant,IV,4.0,Variant B,Take on Empty Stomach,39.0,705.2981529387164
+90.65003181057344,1.3736687832716519,71.0,Female,Normal,Moderate Impairment,Chemotherapy,IV,3.0,,,67.0,549.3880505029618
+100.30711097370357,1.2412682296687096,42.0,Male,Mild Impairment,Severe Impairment,,Oral,4.0,Variant A,Take with Food,6.0,552.4420162682111
+62.118929792601435,0.8451387621897655,75.0,Female,Severe Impairment,Moderate Impairment,Chemotherapy,Topical,5.0,Normal,Take on Empty Stomach,51.0,68.40324521349265
+92.84460457799226,0.7013948589715104,26.0,Female,Normal,Mild Impairment,Chemotherapy,IV,4.0,Variant A,Take with Food,15.0,290.04588429028223
+85.9910689124407,1.0589011802721346,62.0,Male,Severe Impairment,Normal,Chemotherapy,IV,0.0,Variant B,None,86.0,424.1399726787469
+105.3170662900607,1.1669481398517358,24.0,Female,Severe Impairment,Severe Impairment,Analgesic,Oral,4.0,Variant A,None,30.0,497.01431238292935
+41.55998485171645,0.9523191759941265,84.0,Female,Normal,Moderate Impairment,Antidepressant,IV,0.0,Variant B,Take on Empty Stomach,56.0,338.1152579649266
+42.74497648763565,1.297948287115211,61.0,Female,Mild Impairment,Severe Impairment,,Topical,0.0,Normal,Take with Food,61.0,728.5960577139748
+82.12075578629198,1.0224926319701109,24.0,Male,Mild Impairment,Normal,Antihypertensive,IM,4.0,Variant A,None,81.0,113.1634916169563
+105.8691212011282,1.267991713074584,78.0,Male,Severe Impairment,Severe Impairment,Chemotherapy,IM,4.0,Normal,,75.0,614.2328966697495
+84.37002988875587,1.293418639694824,58.0,Male,Severe Impairment,Severe Impairment,Analgesic,Topical,1.0,Variant B,Take on Empty Stomach,24.0,394.33314132106847
+68.84282848137092,0.8889319979759385,65.0,Female,Mild Impairment,Severe Impairment,Chemotherapy,IV,4.0,Variant B,Take with Food,,
+95.48852919816781,1.243810255428625,75.0,Male,Normal,Severe Impairment,Chemotherapy,Topical,2.0,Variant A,None,44.0,200.8138227304514
+89.72439513055468,1.4508247914824253,34.0,Female,Moderate Impairment,Severe Impairment,Antihypertensive,Oral,5.0,Normal,Take on Empty Stomach,38.0,139.0228051869972
+42.64271414054249,0.9810999815925361,71.0,Female,Normal,Normal,Antihypertensive,IV,1.0,Normal,Take on Empty Stomach,40.0,37.33653580190589
+60.228914137456414,1.0086720060237138,83.0,Male,Normal,Normal,Antihypertensive,IV,1.0,Variant B,Take on Empty Stomach,88.0,500.92263570261963
+51.31171632242318,0.7516037828272255,57.0,Female,Mild Impairment,Severe Impairment,Antihypertensive,,0.0,,Take on Empty Stomach,24.0,406.3464097447581
+102.74055400339486,1.4362014521930084,83.0,Female,,Severe Impairment,Analgesic,IM,2.0,Variant A,None,51.0,590.404355116597
+75.94821853909167,1.3556448755619561,37.0,Female,Normal,Normal,Analgesic,,3.0,Variant B,Take on Empty Stomach,13.0,138.73838385260325
+43.51011741388979,1.0941814893076898,,,Mild Impairment,Severe Impairment,Analgesic,IM,1.0,Variant A,Take on Empty Stomach,39.0,767.0944764899123
+101.59563701934397,0.9636963794706513,47.0,Male,Severe Impairment,,Analgesic,IM,1.0,,,29.0,203.37574273143213
+99.12228678406595,0.9942011968978721,64.0,Male,Mild Impairment,Severe Impairment,,Topical,2.0,Normal,None,72.0,622.9227070374852
+72.26492194124445,0.7837676891067917,23.0,Male,Moderate Impairment,Moderate Impairment,Antidepressant,IM,5.0,Normal,Take with Food,72.0,785.9061826078729
+40.06044277301426,0.7430334900652095,75.0,Female,Severe Impairment,Moderate Impairment,Analgesic,IM,,Normal,None,72.0,118.92554555091628
+44.04969835806115,1.4147700789505822,78.0,Female,Normal,Normal,Antihypertensive,Oral,2.0,Variant A,Take on Empty Stomach,49.0,109.71752686643032
+60.790197229330396,1.3819760795776128,20.0,Male,,Moderate Impairment,Antihypertensive,Oral,3.0,Variant B,Take on Empty Stomach,21.0,513.3213596204293
+,1.4706546154510862,20.0,Male,Severe Impairment,Normal,Antidepressant,Topical,0.0,Variant B,Take with Food,64.0,772.0645854894717
+41.30941011774628,,71.0,Male,Mild Impairment,Moderate Impairment,Antihypertensive,IV,2.0,Variant B,Take with Food,57.0,141.2385535000495
+,1.1966287117274133,53.0,Male,Normal,Severe Impairment,Antidepressant,Topical,4.0,Variant A,Take with Food,71.0,244.34434714750313
+48.70682202531724,1.057011671846913,73.0,Male,Moderate Impairment,Mild Impairment,Antidepressant,Oral,,Variant B,Take with Food,47.0,179.1894189547267
+86.73555379863308,,33.0,Male,Mild Impairment,Moderate Impairment,Antihypertensive,IM,3.0,,Take with Food,46.0,497.63792471130074
+106.43186787740541,0.9173063227789625,60.0,Female,Mild Impairment,Normal,Antibiotic,IV,4.0,Variant B,None,58.0,309.4458212113165
+54.44854594069196,1.3524855540224359,24.0,Male,Normal,Moderate Impairment,Analgesic,IV,2.0,Variant B,Take with Food,17.0,624.5413213259181
+70.40894016773925,0.7130093894525531,54.0,Male,Severe Impairment,Normal,Analgesic,Topical,0.0,Variant B,None,2.0,418.90414356302733
+65.26480103263023,1.0581765624878343,82.0,Female,Normal,Normal,Antidepressant,IV,3.0,Normal,Take with Food,52.0,503.94740278659776
+66.44630993414236,0.9051359731405154,58.0,,Severe Impairment,Mild Impairment,Antihypertensive,Oral,0.0,,Take with Food,85.0,114.90005345039708
+97.97454069139974,1.1738779817710245,45.0,Male,Moderate Impairment,Moderate Impairment,Antihypertensive,Topical,0.0,Variant B,None,87.0,166.93834470024197
+48.57058159899101,0.9983305448295112,23.0,Female,Normal,Moderate Impairment,Antidepressant,,1.0,Variant A,Take on Empty Stomach,58.0,784.4651947790401
+81.58360635825494,1.3068614932088287,51.0,Male,Mild Impairment,Mild Impairment,Chemotherapy,IV,4.0,Variant A,Take with Food,9.0,484.3516850480443
+49.098935516045756,0.874379199524972,51.0,Male,Normal,Normal,Analgesic,IM,2.0,Variant A,Take on Empty Stomach,89.0,708.218423154655
+109.01719788281578,0.9421961838197251,66.0,,Severe Impairment,Severe Impairment,,Oral,,Normal,None,9.0,233.26323737894967
+85.77415035142431,0.9769338345250878,74.0,Male,Mild Impairment,Mild Impairment,Chemotherapy,Oral,5.0,Variant A,Take on Empty Stomach,58.0,272.23206524563506
+87.09420540194745,1.1968215884266216,71.0,Female,Normal,Severe Impairment,Antibiotic,IM,0.0,Normal,None,12.0,50.05689445078761
+105.87001903695722,1.1749239766171522,20.0,Male,,Normal,Antidepressant,Topical,2.0,Normal,Take on Empty Stomach,36.0,720.604619246037
+64.41144726752114,1.4247953062067527,70.0,Female,Severe Impairment,Severe Impairment,Chemotherapy,IV,1.0,,Take with Food,86.0,121.40604319194685
+112.16663067625001,0.7229697235483055,48.0,Female,Severe Impairment,Normal,Analgesic,IM,0.0,Variant A,Take on Empty Stomach,78.0,259.6613868252717
+51.84464293698635,1.0196345205080373,79.0,Female,Severe Impairment,Moderate Impairment,Antibiotic,IV,1.0,Normal,,,329.52211564693124
+103.6539739676264,0.7001174691562099,23.0,Female,Moderate Impairment,Moderate Impairment,Chemotherapy,IM,2.0,Normal,Take with Food,53.0,655.5256119244865
+69.98112592925737,1.1836300728570148,35.0,Female,Normal,Severe Impairment,Antihypertensive,IV,0.0,Variant A,None,82.0,502.8249980176919
+47.77103844047105,0.9518715010523795,78.0,Male,Severe Impairment,Severe Impairment,Antidepressant,,1.0,Variant B,Take with Food,56.0,24.175697539613306
+86.4852214285479,0.7321206835579915,,Male,Mild Impairment,Moderate Impairment,Antidepressant,Oral,1.0,Variant A,None,63.0,330.76423788624044
+95.56328332707113,1.1973823410421036,21.0,Male,Normal,Severe Impairment,Antibiotic,IV,3.0,Variant A,Take with Food,62.0,789.0480928896943
+105.34906722807092,,62.0,Female,Moderate Impairment,Severe Impairment,Antihypertensive,Topical,0.0,Variant A,None,86.0,585.219734619939
+45.5233463058491,1.3815396364029249,70.0,Male,Severe Impairment,Moderate Impairment,,IM,3.0,Normal,Take with Food,11.0,178.5424084886332
+40.69249273018186,1.3456647629012137,53.0,Female,Normal,Normal,Chemotherapy,Oral,4.0,Variant A,Take with Food,32.0,781.2167061952223
+53.121735062033146,,77.0,Male,Moderate Impairment,Severe Impairment,Analgesic,Topical,5.0,Variant A,Take on Empty Stomach,64.0,528.5262938170198
+69.73233814871661,0.7130971201996724,68.0,Male,Severe Impairment,Severe Impairment,Chemotherapy,IM,4.0,,None,70.0,257.17531278899384
+,1.1873349003424567,64.0,Female,Severe Impairment,Normal,Antibiotic,IM,4.0,Normal,None,89.0,698.5029045877463
+40.26990136962044,1.4361411665476815,83.0,Female,Moderate Impairment,Normal,Chemotherapy,IM,,Normal,Take with Food,,90.27775859078623
+59.22298259502182,0.9518742512645,23.0,Male,Mild Impairment,Mild Impairment,Antibiotic,Oral,2.0,Variant B,Take with Food,70.0,147.06632768981066
+64.70163319676476,,59.0,Female,Mild Impairment,Severe Impairment,Chemotherapy,Topical,1.0,Variant A,Take on Empty Stomach,36.0,110.78853265015326
+65.47968549918515,1.0157428669261992,41.0,Female,Moderate Impairment,Moderate Impairment,Antihypertensive,Oral,,Variant B,Take on Empty Stomach,3.0,497.20015677624264
+78.30512002658462,1.494999014481274,54.0,Male,Moderate Impairment,Severe Impairment,Antidepressant,,0.0,Variant B,None,70.0,460.1766762195973
+47.665560270812996,1.1774278632594202,27.0,Male,Moderate Impairment,Severe Impairment,Analgesic,IV,,Variant B,Take with Food,78.0,514.3788632288051
+101.18318003969128,1.2873920266969434,18.0,Female,Normal,Moderate Impairment,Antibiotic,IM,5.0,Variant B,Take with Food,73.0,496.91269407389456
+71.59847074752699,1.1956108910940153,21.0,Female,Severe Impairment,Severe Impairment,Antihypertensive,Topical,0.0,Normal,Take on Empty Stomach,84.0,729.4086020179541
+63.61660652481527,1.011124135946246,42.0,Male,Severe Impairment,Mild Impairment,Antidepressant,Oral,3.0,Normal,,22.0,93.2494467701885
+44.13862602528955,0.9585208850277667,45.0,Female,Moderate Impairment,Moderate Impairment,Antidepressant,IV,3.0,Variant B,Take on Empty Stomach,17.0,343.2127780511572
+77.42678430578991,1.2280738872611918,,Male,Moderate Impairment,Severe Impairment,Antihypertensive,IV,2.0,Normal,None,65.0,134.16477392141397
+113.92034471608413,1.1562888928036306,82.0,Male,,Mild Impairment,Chemotherapy,Oral,2.0,Variant B,None,35.0,162.5282468336619
+70.24307110734608,1.329401458787243,73.0,Female,Mild Impairment,Normal,Chemotherapy,Oral,2.0,Variant B,Take on Empty Stomach,73.0,782.6917822781948
+105.43153995659966,1.178652845455593,22.0,Female,Mild Impairment,Mild Impairment,Antibiotic,IV,,Variant B,Take on Empty Stomach,1.0,245.75729817884866
+70.99239080890916,0.9076389202875074,36.0,Female,Severe Impairment,Severe Impairment,Antidepressant,Oral,4.0,Normal,Take with Food,13.0,632.8966766655684
+112.79607446903775,0.7604348655791329,50.0,Male,Mild Impairment,Moderate Impairment,Analgesic,Oral,0.0,Variant B,None,40.0,179.80673358495312
+,0.9740249665473706,26.0,Female,Normal,Severe Impairment,Antibiotic,Oral,2.0,Variant B,Take with Food,68.0,40.376965505074025
+61.59461501822218,1.14967143922489,27.0,Male,Normal,Mild Impairment,Analgesic,IV,3.0,Normal,Take on Empty Stomach,24.0,224.8955432409495
+104.43273255202023,0.7919551424747182,52.0,Male,Mild Impairment,Severe Impairment,Antidepressant,IV,2.0,Normal,Take with Food,15.0,731.7741486902643
+81.2993460203808,1.2847230054709664,52.0,Male,Normal,Mild Impairment,Antibiotic,Topical,2.0,Normal,Take with Food,17.0,
+100.26676234817276,1.2849081192608056,26.0,Female,Severe Impairment,Moderate Impairment,Analgesic,,2.0,Variant B,Take on Empty Stomach,29.0,
+114.62593944585039,0.8475190114264203,67.0,Female,Normal,Severe Impairment,Antibiotic,IV,4.0,Variant A,Take on Empty Stomach,50.0,187.5819715338289
+54.243066948888284,1.410206402174165,27.0,Male,Normal,Mild Impairment,Chemotherapy,Oral,4.0,Variant B,Take on Empty Stomach,84.0,47.99862263914548
+68.02329639910184,1.3412634088220643,51.0,Female,Mild Impairment,Severe Impairment,Antibiotic,Oral,5.0,Variant A,None,11.0,28.520616475320434
+62.68048600953983,1.2279642911313378,39.0,Female,Mild Impairment,,Chemotherapy,Oral,5.0,Variant B,Take on Empty Stomach,79.0,188.31026105036773
+67.7342039812869,,84.0,Female,Normal,Normal,Antibiotic,Oral,4.0,Normal,None,86.0,130.96183778492792
+49.43877096778246,0.9973190560365901,19.0,Female,Severe Impairment,Severe Impairment,Antibiotic,IM,2.0,Variant A,Take on Empty Stomach,12.0,14.219160648312538
+60.233015920376296,0.9767404733414673,77.0,Female,Severe Impairment,Mild Impairment,Chemotherapy,,1.0,,Take with Food,4.0,432.04547674652474
+,1.0694910314742063,47.0,Female,Mild Impairment,Normal,Antidepressant,IM,0.0,Normal,Take with Food,65.0,409.2120681958664
+49.544778464876494,1.2815621859065989,44.0,Female,Moderate Impairment,Moderate Impairment,Analgesic,IV,0.0,Variant A,None,11.0,501.04561724468954
+111.20386763667297,0.9060838136179066,45.0,,Mild Impairment,Moderate Impairment,Analgesic,,4.0,Normal,Take on Empty Stomach,42.0,778.0657597473905
+106.77694709133064,1.412689488358245,62.0,,Severe Impairment,Mild Impairment,Analgesic,IV,2.0,Normal,None,85.0,748.4985851051706
+80.9244865853573,,31.0,Male,Severe Impairment,Mild Impairment,Antibiotic,IV,0.0,Normal,None,82.0,70.57457072497661
+44.76533829743521,,30.0,Male,Moderate Impairment,Normal,Antibiotic,Oral,0.0,Variant B,Take on Empty Stomach,58.0,774.5807705683862
+55.678148827967,0.7925379961795868,78.0,Male,Severe Impairment,Moderate Impairment,Antidepressant,Topical,2.0,Normal,None,37.0,522.9218158563718
+105.39841678544325,1.2022530526740018,81.0,Female,Severe Impairment,Mild Impairment,,Topical,5.0,Variant B,Take with Food,42.0,761.0814060497411
+95.80003654539297,1.3510836768061087,33.0,Female,Mild Impairment,Severe Impairment,Antihypertensive,Topical,2.0,Variant A,Take on Empty Stomach,59.0,271.6409504152107
+,1.171809944934991,77.0,,Mild Impairment,Mild Impairment,Antibiotic,,3.0,Variant A,None,15.0,367.8935870508235
+43.613319607897125,1.1865945570055916,44.0,Female,Mild Impairment,Mild Impairment,Antihypertensive,Oral,3.0,Normal,Take on Empty Stomach,50.0,452.14786335126774
+64.08392004453304,1.2160921105858944,77.0,Female,Mild Impairment,Normal,,Topical,0.0,Normal,Take on Empty Stomach,55.0,321.5526051062149
+59.89636251591581,1.3072486514401789,41.0,Male,Severe Impairment,Normal,Antihypertensive,Topical,0.0,Variant B,Take on Empty Stomach,21.0,152.30534170343708
+93.46174590346727,1.0970273729474929,,Male,Moderate Impairment,Normal,Analgesic,IV,3.0,Variant B,Take with Food,44.0,
+53.842823530203205,1.3486257192529751,51.0,Female,Severe Impairment,Mild Impairment,Analgesic,IM,3.0,Variant A,Take with Food,18.0,583.9984887431391
+45.27225230865342,1.1667391264318927,37.0,Female,Moderate Impairment,Mild Impairment,Analgesic,IV,2.0,Normal,Take on Empty Stomach,67.0,768.9608756830573
+101.0451483821104,1.283546810369318,45.0,Male,Severe Impairment,Normal,Antidepressant,Topical,4.0,Normal,None,23.0,409.5621819869734
+86.88231964511247,0.9891914776544415,26.0,Male,Normal,Normal,Antidepressant,Oral,0.0,Variant A,None,,416.6933153306574
+71.60007269373725,0.7416597150048361,25.0,,Severe Impairment,Moderate Impairment,Antihypertensive,,1.0,Normal,Take on Empty Stomach,28.0,411.7014958143499
+74.87834525627824,1.0643624967024146,34.0,Male,Normal,Mild Impairment,Analgesic,Oral,2.0,,Take with Food,21.0,146.70137708621445
+75.85200471470253,0.7741014621074782,69.0,Female,Mild Impairment,Mild Impairment,Antibiotic,IM,5.0,Variant A,Take on Empty Stomach,22.0,621.9969031942694
+71.9828684859371,1.1279866993731136,46.0,Male,Moderate Impairment,Normal,Antidepressant,IM,0.0,,Take on Empty Stomach,81.0,291.30747288613173
+57.585087002451864,0.7382451674131564,43.0,Female,Mild Impairment,Normal,Antibiotic,,1.0,Normal,Take on Empty Stomach,18.0,613.6120569350257
+109.81588951431064,0.9740226695989433,61.0,Female,,Normal,Antidepressant,IM,0.0,Variant B,None,14.0,674.2173651456966
+45.05499477919987,1.29951124191511,57.0,Male,Moderate Impairment,Mild Impairment,Antidepressant,IV,1.0,Variant A,None,32.0,192.03047596547034
+74.62937975629556,1.4918089344423937,60.0,Female,Severe Impairment,Normal,Analgesic,Topical,3.0,Variant A,Take on Empty Stomach,71.0,37.693116051593655
+74.95868901956311,0.9090351990571456,79.0,,Mild Impairment,Mild Impairment,Antidepressant,IV,4.0,Normal,None,5.0,300.1641557685997
+59.95824418656844,0.8067989580265573,82.0,Female,Normal,Moderate Impairment,Analgesic,Topical,3.0,Variant B,Take with Food,23.0,742.3704425619052
+103.22366531544648,,41.0,Female,Mild Impairment,Mild Impairment,Antidepressant,Topical,2.0,Variant A,None,4.0,518.8991685219706
+75.37457861151107,0.8983259811469115,18.0,Male,Normal,,Antihypertensive,Topical,3.0,Variant A,Take on Empty Stomach,88.0,218.04118341329095
+58.937734515896395,,60.0,Male,Mild Impairment,Severe Impairment,Analgesic,Oral,3.0,Variant A,Take on Empty Stomach,45.0,445.8555500106038
+92.32294497210009,1.470560868972603,25.0,Male,Moderate Impairment,Severe Impairment,Antibiotic,IV,2.0,Variant A,None,29.0,756.892025888081
+52.602898904890345,1.4152422055793805,63.0,Female,,Moderate Impairment,Chemotherapy,,4.0,Variant A,None,5.0,383.5506170823452
+65.43764096026499,0.8603921013413918,50.0,Female,Mild Impairment,Mild Impairment,Analgesic,Oral,1.0,Variant A,None,17.0,35.63521832042583
+,1.1176212477567968,48.0,Female,,Normal,Antibiotic,Oral,5.0,Normal,Take with Food,82.0,
+,1.3600815406707132,21.0,Female,Severe Impairment,Severe Impairment,,Topical,0.0,Variant B,None,12.0,244.9311382133528
+93.70173932656293,1.4243316825789372,76.0,Female,Severe Impairment,Normal,Antidepressant,Topical,2.0,Variant B,None,59.0,312.7766103272518
+60.310241510187616,1.1814301924749775,20.0,Male,Moderate Impairment,Mild Impairment,Antidepressant,IV,5.0,Variant A,None,79.0,727.7353575979662
+94.45761438504607,0.9522274703938208,79.0,,Severe Impairment,Severe Impairment,Antihypertensive,IM,1.0,Variant B,None,89.0,509.86825209409307
+69.65404517024946,,36.0,,Mild Impairment,,Chemotherapy,IM,1.0,Variant B,Take on Empty Stomach,56.0,152.86083604619057
+54.87347191005894,0.8945379685684558,81.0,Male,Mild Impairment,Mild Impairment,Analgesic,IM,1.0,Normal,None,47.0,60.448398928089325
+59.61636686949792,0.9999266910691892,59.0,Female,Mild Impairment,Normal,Antibiotic,Topical,5.0,,Take on Empty Stomach,33.0,282.39477925642353
+60.156146870269545,1.2228983576524532,84.0,Male,Moderate Impairment,Normal,Antidepressant,Oral,1.0,Normal,Take on Empty Stomach,46.0,732.0913178571436
+60.791653396695835,0.8555422674997691,52.0,Female,Severe Impairment,Normal,Antidepressant,IM,2.0,Variant A,Take on Empty Stomach,42.0,621.4379978419429
+57.19125414970176,1.2500310589351362,37.0,,Normal,Severe Impairment,,Topical,5.0,Normal,Take with Food,30.0,300.69216989170667
+113.78227459182169,1.2202115015382466,,Male,Normal,Normal,Analgesic,Topical,5.0,Variant B,Take with Food,2.0,747.2256004734484
+80.19706923453691,1.2943910501692382,46.0,Female,Normal,Normal,Antibiotic,IV,5.0,Normal,Take with Food,54.0,685.8373171118745
+62.776074766064376,1.2702054504227989,55.0,Female,Mild Impairment,Mild Impairment,,Topical,2.0,Variant A,Take with Food,,370.69552593018204
+98.46775437369277,1.1242663855472166,32.0,Female,Normal,Normal,Antidepressant,IM,0.0,,None,,179.07707593704268
+119.89075825021142,1.1122480342330903,,,Severe Impairment,Normal,Chemotherapy,Topical,3.0,Variant A,None,88.0,85.68520715902048
+40.90941191220501,1.4237004222112883,,Female,Normal,Moderate Impairment,Antihypertensive,IV,5.0,Normal,Take with Food,46.0,639.5964446724663
+94.23828291753972,,24.0,Female,Moderate Impairment,Mild Impairment,Antidepressant,Topical,5.0,Variant B,None,83.0,156.19637522312215
+90.40136701506407,1.3749033360480836,19.0,Male,,Mild Impairment,Antihypertensive,Topical,3.0,Variant A,Take on Empty Stomach,17.0,284.3915686929673
+88.60432355519787,0.7665055361597495,56.0,Female,Normal,Normal,Chemotherapy,IM,,Variant A,Take on Empty Stomach,1.0,690.490572235387
+63.52819926157369,0.8180776917823392,61.0,,Normal,Severe Impairment,Analgesic,IM,2.0,Normal,Take on Empty Stomach,19.0,638.7665304165497
+58.00909248062621,1.4130884993934387,78.0,Female,Normal,Severe Impairment,Antibiotic,Topical,1.0,Variant B,Take on Empty Stomach,8.0,81.98398046289756
+78.35955018541739,0.9512359848936189,36.0,Male,Mild Impairment,Normal,Antidepressant,Oral,5.0,Variant B,Take with Food,52.0,616.2735001876323
+107.62815556114982,,59.0,Male,Mild Impairment,Severe Impairment,Analgesic,Oral,1.0,Normal,Take with Food,63.0,754.5922062038869
+87.16915947759075,1.337662355401538,63.0,Female,Normal,Severe Impairment,Analgesic,Topical,2.0,Normal,None,73.0,709.318688883544
+45.618692634312794,1.140868292206096,43.0,Female,Normal,Normal,Antidepressant,IM,4.0,Variant A,None,8.0,262.13132810037575
+,1.349311556987816,72.0,Female,Mild Impairment,,Analgesic,Oral,1.0,Variant B,Take on Empty Stomach,1.0,789.8044065899362
+99.22655521292714,1.0691020265653244,21.0,Male,Moderate Impairment,Normal,Antihypertensive,Oral,2.0,Variant A,,88.0,100.20922873346515
+79.64467514804656,1.0208048776284377,42.0,Male,Severe Impairment,Mild Impairment,,Topical,0.0,Variant B,Take with Food,33.0,
+111.82125627129615,1.3694319617600446,52.0,Female,Severe Impairment,Mild Impairment,Antibiotic,IV,2.0,Normal,None,10.0,231.6637231735305
+55.972011645422825,1.323993505055952,55.0,Male,Severe Impairment,Mild Impairment,Chemotherapy,IM,3.0,Variant B,Take with Food,74.0,154.6975388584216
+100.26935401902259,0.9903379164347527,75.0,Female,Mild Impairment,Severe Impairment,Chemotherapy,Oral,0.0,Variant B,None,39.0,764.7129421223866
+70.84034816379548,1.4333298853255148,69.0,Female,Moderate Impairment,Moderate Impairment,Analgesic,Oral,3.0,,None,87.0,599.8979365461777
+88.63262586817277,1.1334133287969193,69.0,Female,Moderate Impairment,Moderate Impairment,Chemotherapy,IV,0.0,Normal,None,11.0,473.04285820915595
+63.859509423120414,1.1673874515652798,49.0,Female,Severe Impairment,Normal,Analgesic,Oral,4.0,Variant B,None,34.0,357.43016945380936
+84.75497658127007,1.081971378625668,38.0,Male,Moderate Impairment,Mild Impairment,Analgesic,IM,3.0,Variant A,Take on Empty Stomach,20.0,476.162889136942
+57.94941825812481,1.4421914804528035,48.0,Male,Normal,Severe Impairment,Antidepressant,Topical,2.0,Variant B,Take on Empty Stomach,28.0,
+55.987826955800045,1.1599912512384019,26.0,Female,Mild Impairment,Severe Impairment,Antibiotic,Oral,,,Take with Food,89.0,580.4837971679627
+71.49273151674834,1.0434519893536771,46.0,Female,Normal,Moderate Impairment,Chemotherapy,Oral,5.0,Normal,Take on Empty Stomach,60.0,686.0668244383644
+78.34939791683931,1.2908522086874719,69.0,Male,Mild Impairment,Moderate Impairment,Antibiotic,IM,0.0,Normal,Take with Food,80.0,5.508085252706686
+102.15775832993376,0.7811231821455941,68.0,Male,Normal,Mild Impairment,Antihypertensive,Topical,4.0,Variant B,None,86.0,784.133180905161
+115.5469215560203,1.166098447694932,64.0,Female,Normal,Normal,Antibiotic,IV,0.0,Variant B,Take on Empty Stomach,18.0,327.7156493081547
+42.72115568754609,1.3709388751277771,66.0,Female,Severe Impairment,Mild Impairment,Antihypertensive,Oral,1.0,Variant B,None,1.0,105.61509113096493
+77.90720915346566,1.4972796644312416,73.0,Female,Moderate Impairment,Moderate Impairment,Analgesic,IV,5.0,Variant A,,36.0,522.1491981059562
+61.38584809535794,0.8534312557942787,77.0,Male,Moderate Impairment,Mild Impairment,Chemotherapy,IM,4.0,Variant B,Take with Food,11.0,19.158476758104182
+76.04006519111361,0.7762940987438938,69.0,Female,Severe Impairment,,Analgesic,,0.0,Variant B,Take with Food,16.0,636.3545190728654
+69.16176734405695,0.8164367199554585,38.0,Female,Moderate Impairment,Mild Impairment,Antibiotic,IM,2.0,Variant A,Take on Empty Stomach,42.0,745.5878084053307
+65.93102726591675,0.8609226824439218,43.0,Male,Normal,Normal,Analgesic,Oral,,Normal,None,34.0,347.7775951281192
+107.08718500604962,1.4886716830457951,79.0,Female,Normal,Severe Impairment,Chemotherapy,IM,4.0,Variant B,Take with Food,45.0,693.4275640775214
+112.51866045464824,0.919656582238839,27.0,Male,Normal,Mild Impairment,Antibiotic,IM,2.0,,None,46.0,24.805921020784787
+112.6909129808244,,28.0,Female,Mild Impairment,Normal,Antihypertensive,Topical,2.0,Variant A,Take with Food,16.0,
+68.65472322193544,1.346927477576838,29.0,Male,Moderate Impairment,Severe Impairment,Chemotherapy,IV,0.0,Normal,None,35.0,580.502257063383
+57.289091010060716,0.8677432973460735,,Male,Mild Impairment,Mild Impairment,Antidepressant,,5.0,Normal,Take on Empty Stomach,71.0,20.35128187680869
+105.43462165210687,0.9569435575091577,52.0,Female,Normal,Normal,Antibiotic,IM,,Variant A,None,54.0,175.8237374233122
+97.40299383988747,0.7190039345967085,44.0,Female,Severe Impairment,Severe Impairment,Antidepressant,Oral,5.0,Variant A,None,78.0,758.1693670145435
+105.92465487951543,0.7118944226127589,35.0,Female,Severe Impairment,Moderate Impairment,,IM,2.0,Normal,Take on Empty Stomach,84.0,492.5054996616238
+116.7720275516275,1.37686613016999,46.0,Female,Severe Impairment,Normal,Antidepressant,Topical,5.0,Variant B,Take with Food,89.0,780.8547303270865
+45.269022107591745,1.4863973963397976,77.0,Female,Moderate Impairment,Severe Impairment,Antibiotic,IV,1.0,Normal,Take with Food,13.0,49.43795357878452
+72.34111438593456,1.1893885896913459,36.0,Male,Normal,Mild Impairment,Antihypertensive,,2.0,Normal,Take on Empty Stomach,3.0,544.1956130747948
+114.37765165013681,1.2458603044480168,48.0,Female,Severe Impairment,Normal,Antidepressant,Topical,3.0,Variant A,Take on Empty Stomach,87.0,290.23088341183706
+108.6734003615989,0.9534990656700235,54.0,Male,Moderate Impairment,Severe Impairment,Antibiotic,Topical,4.0,Normal,Take with Food,22.0,641.9827430361403
+50.738937384975024,1.4066318872321706,43.0,Female,Normal,Moderate Impairment,Analgesic,IV,3.0,Variant B,None,42.0,369.8915769716235
+85.97569840074631,1.2736824084120788,79.0,Male,Severe Impairment,Moderate Impairment,Antidepressant,Oral,5.0,Normal,Take with Food,36.0,783.9864883018635
+119.41785294062788,1.3881566292586778,59.0,Female,Severe Impairment,Normal,Antibiotic,Topical,,Variant A,None,15.0,657.6296346815973
+,0.9878044268072557,83.0,Male,Severe Impairment,Mild Impairment,Chemotherapy,,4.0,Variant B,Take on Empty Stomach,6.0,97.53053095256722
+54.04757043258975,0.8753466524065835,68.0,Female,Severe Impairment,,Analgesic,Oral,0.0,Variant B,,74.0,70.36507016889757
+90.33871786434932,0.7605195681569985,42.0,Female,Normal,Moderate Impairment,Antihypertensive,Oral,1.0,Variant A,Take with Food,53.0,478.9836682775865
+106.19229473362003,1.201565422309566,67.0,Male,Moderate Impairment,Mild Impairment,Antihypertensive,IM,1.0,Variant B,None,76.0,248.7794608543265
+41.690977589295606,0.822436627432082,32.0,Female,Moderate Impairment,Mild Impairment,Analgesic,IM,4.0,Variant B,None,82.0,
+87.1521523497776,1.3817022711183107,20.0,Female,Mild Impairment,Severe Impairment,Antibiotic,IM,1.0,Normal,Take on Empty Stomach,,290.27416686049054
+51.29288664891089,0.7755690214657314,70.0,Male,Severe Impairment,Moderate Impairment,Chemotherapy,IM,5.0,Variant B,None,46.0,713.6345963413416
+62.350930020628965,0.8892222555254389,69.0,Male,Severe Impairment,Normal,Analgesic,Oral,2.0,Variant A,Take with Food,45.0,84.39539536258464
+106.73276038951323,0.9910416208953272,29.0,,,Moderate Impairment,Chemotherapy,Topical,0.0,Normal,Take on Empty Stomach,30.0,119.08339505286713
+91.02337863353347,1.1871816495818601,34.0,Female,Normal,Mild Impairment,Chemotherapy,IM,3.0,Normal,None,45.0,211.7375155170955
+96.09415953512305,0.7956468683218451,55.0,Female,Moderate Impairment,Severe Impairment,Antidepressant,Oral,2.0,Normal,None,19.0,444.4339184481152
+,1.4416687053054407,67.0,Male,Severe Impairment,,Antidepressant,Oral,5.0,Normal,None,88.0,11.033118316720934
+,0.7881540518053322,58.0,Female,Mild Impairment,Mild Impairment,Antidepressant,IV,2.0,Normal,None,20.0,121.93479572159339
+49.054280194331206,0.9312947206168402,84.0,Female,Severe Impairment,Mild Impairment,Antibiotic,Oral,,Variant A,Take with Food,73.0,547.4286720687943
+84.66803887908642,1.2197194640106455,34.0,Female,,Mild Impairment,Chemotherapy,IV,4.0,Normal,Take with Food,25.0,398.8823839064731
+52.91656154428864,,33.0,Male,,Severe Impairment,Antidepressant,Oral,2.0,Variant B,Take on Empty Stomach,28.0,753.806084324729
+42.21678163472842,1.1332520233877634,62.0,Male,Mild Impairment,Mild Impairment,Antidepressant,IM,3.0,Variant A,,63.0,664.7173217395466
+83.06707023652297,0.7368017240567404,70.0,Male,Severe Impairment,Mild Impairment,,IM,3.0,Variant B,Take with Food,54.0,522.7895130329977
+95.14053912140548,1.0460966690227511,21.0,Male,Normal,Normal,Antidepressant,Topical,1.0,Variant A,None,38.0,417.41929419291074
+66.99330250881403,0.8897255933306956,32.0,Female,Mild Impairment,Severe Impairment,Antibiotic,Oral,3.0,Variant A,None,40.0,591.4958008607966
+119.17538406613335,0.8915416308880052,34.0,Male,Severe Impairment,,Antihypertensive,IV,1.0,Variant A,Take on Empty Stomach,55.0,621.6984030643057
+69.91884016798278,1.141101823077806,38.0,Female,Severe Impairment,Moderate Impairment,Antibiotic,Topical,2.0,Normal,Take on Empty Stomach,41.0,766.7346591707072
+97.0417485809672,1.3183167066265282,32.0,Male,Moderate Impairment,Moderate Impairment,Antidepressant,Topical,4.0,,Take with Food,49.0,625.9939600651829
+79.56354849505362,0.7039785345889414,55.0,Male,Mild Impairment,Severe Impairment,Analgesic,IM,5.0,Variant B,None,53.0,
+101.33309726372232,0.9999594515845309,32.0,Male,Severe Impairment,Normal,Chemotherapy,Topical,1.0,Variant A,None,46.0,738.7769968294365
+112.6347854429162,1.2747403451542938,20.0,Male,Severe Impairment,Severe Impairment,Analgesic,IV,0.0,Normal,Take with Food,53.0,10.777343448884592
+105.52203179332183,0.8730203447507333,45.0,Male,Severe Impairment,Mild Impairment,Analgesic,Oral,0.0,Variant B,Take on Empty Stomach,54.0,785.7277596130247
+96.01584830364378,1.3657907840273789,62.0,Female,Mild Impairment,Normal,,IV,3.0,Variant B,None,29.0,399.3119310687824
+,0.795361931684271,38.0,Male,,Moderate Impairment,,IV,3.0,Variant B,Take on Empty Stomach,22.0,596.0587135597596
+90.56745775681495,1.2744186454697792,,Female,Normal,Normal,,Oral,,Variant A,Take on Empty Stomach,75.0,
+97.93228494904949,1.1944590710339624,44.0,Female,Moderate Impairment,Severe Impairment,Antihypertensive,IV,5.0,Variant A,Take on Empty Stomach,25.0,751.2697566509871
+115.56230596190387,1.1573680055372901,22.0,Male,Moderate Impairment,Mild Impairment,Chemotherapy,IV,4.0,Normal,Take with Food,,632.5429888092931
+70.58725581716855,0.9773646547228343,74.0,Male,Normal,Severe Impairment,Antidepressant,IM,5.0,Normal,None,68.0,99.7261303253404
+61.431940983270515,1.0309338627073164,72.0,Male,Moderate Impairment,Mild Impairment,Antidepressant,IM,,Normal,Take with Food,33.0,133.8897005846375
+47.07894675175608,1.2899783372439744,78.0,Male,Mild Impairment,Moderate Impairment,,IV,4.0,Normal,None,75.0,758.6180057874925
+108.20497268502973,1.3594882723241903,80.0,Female,Moderate Impairment,Severe Impairment,Analgesic,,1.0,Variant B,Take with Food,34.0,418.2637317498369
+51.267103318965106,0.7311174028581748,61.0,Female,Normal,Mild Impairment,Antidepressant,Topical,0.0,Variant B,None,36.0,
+56.595238691305866,1.1105187112249864,77.0,Female,Normal,Moderate Impairment,Antihypertensive,,1.0,Variant B,Take with Food,21.0,603.6827931498632
+114.86792768919383,1.1612053917634642,68.0,Female,Normal,Severe Impairment,Chemotherapy,Topical,2.0,,Take with Food,,384.776066619918
+111.71405132722673,1.0749902808479956,20.0,Female,Normal,Mild Impairment,Antibiotic,Oral,0.0,Variant B,None,,165.24398383306465
+117.55816542046027,0.776273446747664,72.0,Male,Normal,Severe Impairment,Chemotherapy,Oral,1.0,Variant B,None,24.0,264.8634112909998
+61.62561720177799,1.41380641078461,24.0,Female,,Severe Impairment,Antibiotic,IM,1.0,Normal,None,23.0,104.05648521828184
+82.9664953478199,1.2024896655463486,73.0,Female,Mild Impairment,Normal,Antibiotic,Topical,5.0,Normal,,,534.3650946591131
+66.26996412391193,0.7026475147649356,63.0,Male,Normal,Mild Impairment,Antidepressant,,2.0,Variant B,Take on Empty Stomach,49.0,594.6444515648357
+103.74319770874222,1.326560058124928,58.0,Male,Normal,Moderate Impairment,Analgesic,IM,1.0,Normal,Take with Food,79.0,18.34710650255595
+63.462576302164734,0.7023427908102313,62.0,Male,Moderate Impairment,Normal,Antibiotic,IM,2.0,Normal,Take on Empty Stomach,4.0,535.6337022647625
+118.49369684884493,,75.0,Male,Normal,Severe Impairment,Analgesic,IV,2.0,Variant B,None,77.0,255.79825106419818
+54.744930550411546,1.145051013459283,27.0,Female,Mild Impairment,Normal,Chemotherapy,Oral,1.0,Normal,Take on Empty Stomach,57.0,753.6799278644161
+118.58931576679312,0.973747547304572,60.0,Female,Normal,Normal,Antidepressant,Oral,2.0,Variant B,Take on Empty Stomach,15.0,180.90011182452318
+74.20985719405627,0.8686799000092338,55.0,Male,Moderate Impairment,Moderate Impairment,Chemotherapy,Oral,4.0,,None,38.0,313.5221651841695
+56.68086386349706,1.3016179430959336,77.0,Female,Moderate Impairment,Moderate Impairment,Antihypertensive,Topical,4.0,Variant B,,17.0,774.5187860982153
+78.39888554376549,1.0067436381349948,49.0,Female,Severe Impairment,Mild Impairment,Antihypertensive,Topical,2.0,Variant A,Take on Empty Stomach,7.0,498.039730602571
+111.97946479075488,1.3621531864178253,18.0,Male,,Normal,Analgesic,Topical,1.0,Normal,Take with Food,23.0,98.4950899013986
+86.57809325002745,1.3702843590991984,,Male,Normal,Severe Impairment,Antibiotic,IV,5.0,Variant A,None,41.0,233.7661209325071
+,0.987168412481298,23.0,Female,Normal,Normal,Chemotherapy,Topical,2.0,Variant B,None,70.0,455.82483788172163
+58.19513289410308,1.3637246488867538,33.0,Male,Normal,Moderate Impairment,Antihypertensive,Topical,0.0,Normal,Take on Empty Stomach,50.0,494.88560511476857
+75.15515249709958,0.8636990603712014,,Female,,Normal,Analgesic,Topical,0.0,Variant A,None,44.0,36.96681807437568
+68.00050977058012,1.4456946206205767,77.0,Male,Moderate Impairment,Moderate Impairment,Analgesic,IM,5.0,Variant A,Take with Food,46.0,551.9765973954554
+73.42664430788531,1.1050179704067256,72.0,Female,Severe Impairment,Normal,Analgesic,Oral,4.0,Variant A,Take on Empty Stomach,,241.9555201651631
+60.66229190097336,0.7520982384705982,58.0,Male,Moderate Impairment,Mild Impairment,Antidepressant,IV,3.0,Normal,Take with Food,52.0,281.1883328287579
+93.50115832545619,1.102070110594326,65.0,Male,Mild Impairment,Normal,Antidepressant,Topical,0.0,Variant A,Take with Food,88.0,477.15609977144317
+104.94998819639066,1.0992630220114004,36.0,Female,Normal,Mild Impairment,Chemotherapy,IM,0.0,Variant A,Take on Empty Stomach,85.0,452.34448239527035
+43.08290371021289,0.8308570437691365,42.0,Male,Normal,Moderate Impairment,Antidepressant,Oral,2.0,Normal,None,33.0,145.36173888809435
+85.17135475602589,,50.0,Male,Mild Impairment,Mild Impairment,Antibiotic,IM,4.0,Normal,,56.0,415.7190271463361
+77.90252750316613,1.1561744783564754,68.0,Male,Mild Impairment,Mild Impairment,,Oral,0.0,Variant B,Take with Food,18.0,540.5450424617326
+51.62129522889816,1.1198647614722506,70.0,Male,Mild Impairment,Moderate Impairment,Antibiotic,Oral,0.0,Normal,None,4.0,
+58.62724764899809,1.449383985515098,48.0,Male,Normal,Mild Impairment,Analgesic,IV,0.0,Normal,None,5.0,65.5264291688317
+66.48580927868063,0.844557514560202,24.0,Male,Severe Impairment,Moderate Impairment,Antibiotic,Oral,1.0,Variant A,Take with Food,81.0,564.5584386678015
+82.68196574952987,0.9752026466841944,40.0,Male,Moderate Impairment,Moderate Impairment,Antihypertensive,Oral,5.0,Normal,None,58.0,294.0021908036367
+53.44054817675502,1.4399066182923481,75.0,,Normal,Normal,Antibiotic,Oral,3.0,Variant A,Take on Empty Stomach,32.0,290.95189557637735
+111.34978584252899,0.7661469463079108,39.0,Male,Mild Impairment,Normal,Antibiotic,IV,1.0,Normal,None,74.0,
+73.88766253829914,1.3852706536709183,47.0,Female,Normal,Severe Impairment,Analgesic,Topical,2.0,Variant A,Take with Food,25.0,704.906441495259
+105.87602474657233,0.911240499373465,70.0,Male,Severe Impairment,Severe Impairment,Analgesic,Topical,2.0,Normal,Take with Food,43.0,258.48622732573904
+77.19793160727887,1.0157637858372097,41.0,Female,Severe Impairment,Moderate Impairment,Antidepressant,IV,4.0,Variant B,None,6.0,247.45041290739996
+,1.1502597766478067,71.0,Male,,Moderate Impairment,Antibiotic,IM,1.0,Variant A,,74.0,100.60917021962578
+106.88683540765527,0.8595699817802264,69.0,Female,Normal,Moderate Impairment,Antidepressant,Topical,4.0,Normal,Take with Food,34.0,89.23751649858528
+112.43324225794467,0.9890344999326401,73.0,Female,Normal,Severe Impairment,Antihypertensive,Oral,0.0,Normal,Take on Empty Stomach,,84.28322110318575
+61.287921228669944,1.171265970551534,20.0,Male,Moderate Impairment,Mild Impairment,Antihypertensive,IM,4.0,Variant A,None,62.0,128.51284753240265
+105.27838211454777,1.4202807187662367,56.0,Female,Severe Impairment,Severe Impairment,,IM,3.0,Variant B,None,42.0,53.59063427119102
+94.34174213808005,,45.0,Male,Moderate Impairment,Normal,Chemotherapy,IM,0.0,Variant A,Take with Food,88.0,292.16966784100816
+81.75625805705221,,48.0,Male,Normal,Moderate Impairment,Antihypertensive,Topical,2.0,Variant B,Take with Food,70.0,530.3503098648994
+82.40213466927077,0.8723365130119832,74.0,Male,Severe Impairment,Normal,Chemotherapy,IM,5.0,Normal,Take with Food,22.0,525.0803037003284
+78.43721594130085,1.0937746825968673,80.0,Female,Normal,Moderate Impairment,Antidepressant,Topical,2.0,Normal,Take on Empty Stomach,23.0,242.81693975496503
+,0.9972095043113319,26.0,Female,,Normal,Chemotherapy,IM,0.0,Variant A,Take on Empty Stomach,89.0,183.07438372407424
+108.56767033244654,1.4435409532932952,19.0,Male,Severe Impairment,Mild Impairment,,IV,5.0,Variant B,,33.0,105.81440725603753
+52.71595993823202,1.1833685268122818,51.0,Male,Mild Impairment,Severe Impairment,Analgesic,Topical,,Normal,Take with Food,18.0,382.40241758472837
+116.74768762273283,1.1162929758578064,,Female,Moderate Impairment,Moderate Impairment,Antidepressant,Topical,1.0,Variant B,Take on Empty Stomach,8.0,337.26404987975724
+71.78102655078615,1.0557332033163889,69.0,Male,Mild Impairment,Mild Impairment,Chemotherapy,IV,2.0,Variant B,None,17.0,615.801147844261
+,0.7628516683048384,60.0,Male,Severe Impairment,Moderate Impairment,Chemotherapy,IV,0.0,,Take with Food,,760.5249238250692
+88.55706085326658,1.115199483644714,62.0,Male,Moderate Impairment,Severe Impairment,Antihypertensive,IV,2.0,Normal,Take with Food,11.0,541.352196133353
+55.32436138707655,0.8479367164505449,58.0,Male,Moderate Impairment,Normal,Antidepressant,Oral,3.0,Variant A,Take on Empty Stomach,23.0,205.26238504969328
+46.9743268449042,0.9610139631353154,23.0,Male,Mild Impairment,Severe Impairment,Analgesic,Topical,0.0,Variant B,Take with Food,69.0,68.24061843678999
+113.59190823165419,,68.0,Male,Moderate Impairment,Severe Impairment,Antidepressant,Oral,4.0,Variant A,Take on Empty Stomach,89.0,310.3781486166688
+103.69480865724641,1.4856166747359927,45.0,Male,Severe Impairment,,Antibiotic,IV,4.0,Variant A,None,20.0,434.9560617649741
+51.61953011088997,1.0118208667731068,72.0,Female,Moderate Impairment,Severe Impairment,Analgesic,IV,3.0,Variant B,Take with Food,1.0,744.3766111084232
+95.40392704586966,1.466741026669964,71.0,Male,Severe Impairment,Mild Impairment,Antibiotic,Topical,,Normal,Take with Food,20.0,463.10240212155986
+110.61334594456025,0.8967129570092073,75.0,Male,Severe Impairment,Normal,Analgesic,Oral,1.0,Variant A,None,65.0,436.8210370095934
+113.5806858228804,1.3174374670535651,64.0,Male,Moderate Impairment,Severe Impairment,Analgesic,IM,2.0,Variant B,None,17.0,358.168934728261
+105.20089261157494,,67.0,Male,Severe Impairment,Mild Impairment,Antihypertensive,IM,0.0,Normal,Take on Empty Stomach,88.0,165.03665629148762
+82.05076938287505,0.753008764566919,82.0,Female,Mild Impairment,Normal,Antihypertensive,Topical,5.0,Variant B,None,20.0,35.16649478209183
+58.21660112143142,1.456717701318947,39.0,,Normal,Mild Impairment,Analgesic,IM,3.0,Normal,,6.0,50.41684465605232
+56.88448015425578,1.0523448843997087,41.0,Female,Severe Impairment,Mild Impairment,Antidepressant,Oral,2.0,Normal,Take with Food,4.0,371.49182558577775
+81.61462337073411,1.0145961393830774,82.0,Male,Mild Impairment,Mild Impairment,Analgesic,Oral,1.0,Normal,Take with Food,45.0,324.85835001765736
+80.57810950686957,1.1118565230075625,84.0,Male,Moderate Impairment,Severe Impairment,Antihypertensive,Topical,1.0,Normal,Take on Empty Stomach,66.0,564.3981405892929
+70.07207444458695,0.8806110454403959,24.0,Female,Normal,Moderate Impairment,Analgesic,Topical,5.0,Variant A,,85.0,734.421211008695
+43.202054272118495,1.3082939955135509,81.0,Male,Moderate Impairment,Mild Impairment,Antibiotic,,3.0,Variant A,Take on Empty Stomach,3.0,556.9955136502151
+92.84705137847644,0.9445465850167607,35.0,Female,Mild Impairment,Normal,Antibiotic,IM,0.0,Normal,Take on Empty Stomach,53.0,607.5484817473808
+70.79417141230525,1.4093204077389017,51.0,Male,Mild Impairment,Mild Impairment,Antidepressant,Oral,3.0,,None,77.0,447.9890632459858
+77.09652806524102,1.1578437044808512,,Female,Moderate Impairment,Mild Impairment,Antibiotic,IM,0.0,,None,33.0,256.5582468025091
+118.49424308231286,1.2405818097539671,38.0,Female,Moderate Impairment,Normal,,Oral,3.0,Variant A,Take on Empty Stomach,32.0,390.404115050186
+87.0821494732988,,66.0,Female,Normal,Mild Impairment,Antibiotic,Oral,3.0,Normal,None,40.0,138.80547041664371
+108.59383673847414,0.8740162924977973,45.0,Female,Moderate Impairment,Severe Impairment,Analgesic,IM,3.0,Variant A,Take with Food,64.0,331.69388606311554
+76.48485288025718,1.04235267423403,49.0,Female,Severe Impairment,Normal,Analgesic,Oral,2.0,Variant A,Take with Food,39.0,558.6106061766227
+115.28897213296175,1.2250611525750985,,Male,Mild Impairment,Normal,Antibiotic,IV,4.0,Normal,Take on Empty Stomach,29.0,294.81385999501623
+46.870343976571995,0.9119200473731303,74.0,Female,Moderate Impairment,Normal,Antibiotic,Oral,5.0,Variant B,Take on Empty Stomach,1.0,315.43543043806244
+79.82130026247663,1.4280800070064452,67.0,Male,Mild Impairment,Moderate Impairment,Analgesic,Topical,4.0,Variant B,Take with Food,34.0,697.4009904116016
+47.39120846299683,0.8736841915835943,,Female,Mild Impairment,Severe Impairment,Antibiotic,Oral,1.0,Variant A,Take on Empty Stomach,63.0,508.42805362147226
+107.9931155361531,0.9727716106035971,24.0,Male,,Mild Impairment,Antihypertensive,,2.0,Normal,Take with Food,77.0,24.48043998406423
+96.68911385325788,0.7139324978681206,47.0,Male,Severe Impairment,Moderate Impairment,,IM,0.0,Variant B,None,85.0,26.82537060353141
+45.053786408294094,1.3005455223921145,49.0,Male,,Normal,Analgesic,Topical,2.0,Variant A,Take with Food,10.0,592.0306793473288
+107.81831564606884,1.2507907960884674,54.0,Male,Normal,Moderate Impairment,Antihypertensive,Oral,3.0,Normal,,69.0,761.8337654541451
+72.92879398954788,1.0117384095814912,26.0,Female,Moderate Impairment,Moderate Impairment,Chemotherapy,,,Variant B,Take on Empty Stomach,78.0,746.3271357817275
+46.33951220010451,1.0083440722234207,47.0,Female,Normal,Normal,Antihypertensive,Oral,5.0,Variant B,None,81.0,21.448550873621052
+62.79826408498279,0.7675027927189463,33.0,Male,Normal,Severe Impairment,Analgesic,Oral,0.0,Normal,Take on Empty Stomach,78.0,346.82705434820264
+,0.9284646315009488,64.0,Male,Moderate Impairment,Normal,Chemotherapy,Oral,3.0,Normal,Take on Empty Stomach,81.0,
+111.03725971957454,1.3454956904779876,54.0,Male,Severe Impairment,Severe Impairment,Chemotherapy,Oral,2.0,Variant A,Take with Food,13.0,133.22224208389517
+43.78003831974529,0.8259163468996517,68.0,Female,Mild Impairment,Severe Impairment,Analgesic,Oral,5.0,Variant A,None,46.0,506.8274962988442
+69.90449162902033,0.862361184795307,49.0,Female,Normal,Severe Impairment,Antihypertensive,Topical,1.0,Variant A,None,21.0,124.36698984511766
+91.32098277912968,0.7235660079084739,40.0,Female,Mild Impairment,Moderate Impairment,Chemotherapy,Oral,3.0,Variant B,Take with Food,44.0,
+110.23142223263525,1.2107166342621556,56.0,Female,Severe Impairment,Moderate Impairment,Analgesic,Topical,2.0,Variant B,Take on Empty Stomach,84.0,600.5069966774994
+105.31383578178617,0.8192969621439122,29.0,Male,Severe Impairment,Mild Impairment,Antihypertensive,Topical,5.0,Variant B,Take on Empty Stomach,40.0,257.1172956060184
+80.25056440143152,0.9689929810019631,44.0,Female,Normal,Mild Impairment,Antidepressant,Oral,3.0,Variant B,None,14.0,202.93782787096936
+53.5588720608522,1.1210508058727,52.0,Male,Severe Impairment,Normal,Chemotherapy,Topical,1.0,Variant A,Take on Empty Stomach,2.0,153.77963663185258
+50.06907971203827,0.955376350096683,84.0,Male,Normal,Moderate Impairment,Antibiotic,IV,3.0,Normal,Take on Empty Stomach,9.0,235.13097120674357
+56.68532828043411,1.0344580359643571,68.0,Female,Normal,Moderate Impairment,Chemotherapy,IV,0.0,Variant A,Take with Food,23.0,
+69.3124280251478,1.252526473396883,22.0,Female,Mild Impairment,Normal,Analgesic,Oral,5.0,Variant B,None,11.0,412.91045859549376
+57.607603056893865,0.8277838542472562,55.0,Male,Mild Impairment,Normal,Antibiotic,Oral,2.0,Variant A,Take on Empty Stomach,20.0,609.5660196681723
+89.73494177955969,1.1484322817425414,67.0,Female,Normal,Normal,Antibiotic,Topical,1.0,Variant A,Take with Food,1.0,237.8237834429077
+109.65348704464762,0.7969920644912295,,Male,Mild Impairment,Normal,Chemotherapy,Oral,1.0,Variant B,Take on Empty Stomach,8.0,460.06557694716406
+79.97337072474603,0.8343565089495856,26.0,Male,Normal,Moderate Impairment,Analgesic,Topical,2.0,,None,3.0,475.0799875542753
+74.07548060112182,1.0413873683022534,41.0,Male,Mild Impairment,Mild Impairment,Antidepressant,IM,3.0,Variant B,Take with Food,69.0,138.3896044112825
+43.19869865678359,0.7351367062394933,70.0,,Mild Impairment,Severe Impairment,Antihypertensive,IV,0.0,Variant A,None,69.0,438.84401267369395
+107.51619333350328,1.0392161011316765,72.0,,Severe Impairment,Moderate Impairment,Antihypertensive,Topical,5.0,Variant B,Take with Food,67.0,65.86182868570788
+117.20228011299551,0.8484098580850312,24.0,Female,Moderate Impairment,Mild Impairment,Antibiotic,IM,4.0,Variant B,None,66.0,429.6071765220483
+106.65100168848149,1.1221385396923351,47.0,Male,Normal,Mild Impairment,Antibiotic,Oral,0.0,Normal,None,61.0,795.1656295385088
+116.9705832959702,,18.0,Male,Moderate Impairment,Normal,Antibiotic,Oral,5.0,Normal,Take with Food,49.0,323.6777824219763
+110.25927016112709,0.9583100225178787,31.0,Male,Mild Impairment,Normal,Antidepressant,Topical,3.0,Variant B,None,75.0,254.53599285202952
+57.222636510637116,1.053809597401591,39.0,Female,Mild Impairment,,Antihypertensive,Topical,3.0,Normal,None,59.0,167.7000684924816
+92.91185914684979,1.19666128068442,52.0,Female,Moderate Impairment,Moderate Impairment,Chemotherapy,IV,0.0,Variant A,Take on Empty Stomach,56.0,638.7405097780314
+82.6445701067586,1.1903524313030824,78.0,Female,Moderate Impairment,Mild Impairment,Antihypertensive,IV,2.0,Normal,None,5.0,368.0137762439497
+55.55265916464763,1.0884773843003983,,Female,Severe Impairment,Severe Impairment,Chemotherapy,Oral,5.0,Variant A,Take with Food,63.0,637.9032809468242
+107.29152220555005,0.8606635463870662,43.0,Female,Mild Impairment,Moderate Impairment,Antihypertensive,Topical,2.0,Variant A,,54.0,733.1796132074894
+109.64194235927073,1.1531626059414777,69.0,Male,Mild Impairment,Moderate Impairment,Antidepressant,IV,0.0,Variant A,None,12.0,693.0282878147891
+57.245636781104906,1.1163311776638598,39.0,,Normal,Moderate Impairment,Antihypertensive,IV,4.0,Normal,None,60.0,682.9777815939051
+83.58062389093783,0.9875814700895489,71.0,Female,Severe Impairment,Mild Impairment,Antibiotic,Oral,3.0,Normal,Take with Food,20.0,177.40055305524567
+43.83800322497751,0.8456948725416378,60.0,Male,Severe Impairment,Moderate Impairment,Chemotherapy,IM,5.0,Variant A,Take with Food,82.0,437.20913230940005
+57.44604586228842,0.8894965551660509,84.0,Female,Normal,,Antidepressant,Topical,3.0,Normal,None,50.0,484.42851473003253
+78.84537292471575,0.8342969859340552,80.0,Female,Moderate Impairment,Normal,Analgesic,Topical,3.0,Variant B,None,57.0,136.87460106133446
+116.30527638759646,1.2817655550060274,47.0,Male,Mild Impairment,Normal,Antibiotic,IV,4.0,Variant B,Take with Food,70.0,598.4712478107374
+73.55905496854778,,58.0,Female,Mild Impairment,Mild Impairment,Antibiotic,Oral,4.0,Variant A,None,82.0,47.43493735269222
+49.88941648487845,1.1099089888252913,38.0,Male,Mild Impairment,Mild Impairment,Antidepressant,Oral,0.0,Normal,Take on Empty Stomach,14.0,588.3549270076153
+57.811617269899244,1.352322905998571,79.0,Male,Mild Impairment,Severe Impairment,,IV,0.0,Normal,Take on Empty Stomach,34.0,219.20074578323698
+90.26771094318195,1.142411638547801,37.0,Male,Moderate Impairment,Moderate Impairment,Antihypertensive,IM,2.0,Variant A,,,121.05209909553487
+114.28397212942764,0.9734862518919057,40.0,Male,Mild Impairment,Moderate Impairment,Antihypertensive,Oral,2.0,Variant B,,70.0,152.91842509662635
+109.50523262934189,0.8264123288002949,27.0,Female,Mild Impairment,Severe Impairment,Antidepressant,IM,5.0,Variant A,Take on Empty Stomach,13.0,346.55326836731984
+107.40658007229675,1.4798211450620467,44.0,Male,Moderate Impairment,Moderate Impairment,Analgesic,Oral,4.0,Variant B,None,86.0,365.8810431477356
+43.205325602065805,1.4613358366552895,78.0,Female,Severe Impairment,Severe Impairment,Analgesic,Oral,2.0,Variant A,,32.0,381.57482354097664
+86.98563459752299,0.8207214614912903,47.0,Female,Mild Impairment,,Analgesic,IM,3.0,Normal,,,
+76.97644526875561,1.301020996614272,52.0,,Severe Impairment,Moderate Impairment,Antibiotic,Topical,4.0,Variant A,,28.0,544.5200242848191
+,1.3540365581738154,75.0,Female,Moderate Impairment,Severe Impairment,,Topical,4.0,Normal,Take with Food,37.0,122.21855426881017
+40.1209803116462,1.3673584664018275,51.0,Male,Severe Impairment,Normal,Chemotherapy,Topical,4.0,Variant A,Take on Empty Stomach,61.0,305.92569086946946
+79.37281763319245,,44.0,Female,Severe Impairment,Mild Impairment,Antihypertensive,Topical,1.0,Variant A,Take on Empty Stomach,1.0,260.7609801015118
+116.48834753826263,1.230487873871379,57.0,Male,Normal,Severe Impairment,Analgesic,Oral,4.0,Normal,Take with Food,50.0,93.84636815568057
+,0.9311639605522662,35.0,Male,Mild Impairment,Mild Impairment,Antidepressant,Oral,1.0,Variant A,,82.0,755.8683718608726
+69.3426002064028,1.3042251991247351,28.0,Female,Mild Impairment,Mild Impairment,Antibiotic,Topical,5.0,Variant B,Take on Empty Stomach,,98.44253773578615
+118.67562238073523,1.0195275768294056,70.0,Male,Mild Impairment,Severe Impairment,Antidepressant,,3.0,Normal,None,60.0,790.8311278549453
+91.1079322839181,1.316205435351061,62.0,Female,Moderate Impairment,Severe Impairment,Antidepressant,IM,0.0,Variant B,Take on Empty Stomach,51.0,209.64425773351374
+,1.1650219691014356,68.0,Female,Moderate Impairment,,Antihypertensive,,5.0,Variant A,None,23.0,297.0875246374378
+82.24005450677298,1.1099754007995886,68.0,,Severe Impairment,Mild Impairment,Antidepressant,IV,1.0,Variant B,None,2.0,743.290796557861
+65.89146442072453,1.1595422710237697,59.0,Male,Severe Impairment,Severe Impairment,Antibiotic,Topical,0.0,Variant A,Take on Empty Stomach,46.0,530.6181695448073
+89.62036449883225,1.40326921680534,81.0,Male,Severe Impairment,Normal,Antidepressant,Topical,,Variant A,Take with Food,21.0,416.8764485643204
+95.35241738294383,0.8286640284609308,,Female,Normal,Normal,,Topical,4.0,Variant B,Take with Food,,518.4504546905241
+88.22305103980878,1.4136086328244915,83.0,Female,Moderate Impairment,,Antidepressant,Topical,2.0,Normal,Take on Empty Stomach,27.0,69.10457234397187
+64.2364897651534,1.1295199708018295,31.0,Male,Severe Impairment,Mild Impairment,Antibiotic,Oral,5.0,Normal,None,23.0,57.25650685978451
+105.80348914774024,1.063976503819693,33.0,Female,Normal,Severe Impairment,Chemotherapy,,1.0,Variant A,None,15.0,752.0375229254994
+109.41040066626464,1.0144794556797927,54.0,Female,,Mild Impairment,Antihypertensive,Oral,4.0,Variant A,,66.0,477.0382805238894
+,1.3224682388435895,63.0,Male,Moderate Impairment,Normal,Antibiotic,IM,1.0,Normal,,73.0,615.5043877662098
+46.5258205941246,0.7556737068331006,52.0,Female,Normal,Moderate Impairment,Antibiotic,IM,4.0,Normal,Take on Empty Stomach,29.0,730.9905426355248
+65.36870463856204,1.228187697301586,35.0,Female,,Mild Impairment,Antidepressant,IM,2.0,Variant B,Take with Food,47.0,647.0562114478366
+,1.4557232830926552,49.0,Male,Severe Impairment,Severe Impairment,Antidepressant,Topical,4.0,Normal,None,57.0,187.85068638712235
+111.49028707493854,1.180950517035933,47.0,Male,Normal,Mild Impairment,Antibiotic,Topical,3.0,Variant B,Take on Empty Stomach,73.0,30.84829240903288
+62.643132967698875,0.9918400691659119,81.0,Female,Moderate Impairment,Normal,Antihypertensive,Oral,4.0,Variant A,Take on Empty Stomach,24.0,272.20370155961433
+64.51707399229512,1.3852450706174695,83.0,Male,Normal,Severe Impairment,Antibiotic,Topical,2.0,Variant A,None,20.0,131.80576072238333
+47.51747257491519,0.7560237286113041,18.0,Male,Severe Impairment,Moderate Impairment,Antihypertensive,Oral,5.0,Variant A,Take on Empty Stomach,57.0,213.64155521971261
+96.51779258124985,1.3597125766793077,19.0,Male,,Moderate Impairment,Antibiotic,IV,2.0,Variant A,Take with Food,56.0,741.7691303085909
+,1.2911568335329462,68.0,Male,Moderate Impairment,Moderate Impairment,Antibiotic,Oral,2.0,Variant A,None,82.0,48.09721399484057
+114.953375608171,0.7192192224204064,21.0,Male,Normal,Moderate Impairment,Chemotherapy,IV,1.0,Variant A,Take on Empty Stomach,,467.91021238205525
+119.1028034919549,0.9656889039300223,38.0,Male,Mild Impairment,Normal,Antihypertensive,Topical,,Normal,None,64.0,726.0646041082618
+47.89259069540881,1.2262014184381351,46.0,Female,Moderate Impairment,Normal,Antidepressant,IM,0.0,Variant B,Take on Empty Stomach,40.0,
+62.78176705825649,0.7762296167349556,33.0,Female,Normal,Mild Impairment,Antihypertensive,Topical,4.0,Normal,Take with Food,28.0,196.0895734983652
+57.94788978464435,0.8993400827309497,21.0,Male,Moderate Impairment,,Antihypertensive,IM,3.0,Normal,,53.0,219.07103435324805
+89.65320338182393,1.2087156814620643,34.0,Female,Normal,,Antihypertensive,IM,2.0,Variant B,Take with Food,74.0,170.2755431672229
+57.91425592714625,0.8454615037416693,22.0,,Moderate Impairment,Normal,Analgesic,Topical,5.0,Normal,Take on Empty Stomach,5.0,236.91026172527236
+114.80901171148666,0.7521777830328906,48.0,Female,Severe Impairment,Moderate Impairment,Antihypertensive,IM,5.0,Variant A,Take on Empty Stomach,4.0,349.25122586464335
+91.81168484244948,1.3912181401120352,65.0,Female,Mild Impairment,Severe Impairment,Chemotherapy,Topical,5.0,Normal,Take with Food,80.0,760.0370084911541
+79.16761393937894,0.9543856287099243,21.0,Female,Normal,Severe Impairment,Antihypertensive,Oral,2.0,Normal,Take with Food,81.0,361.7275572525865
+93.48228339586764,0.7838803140644693,42.0,Female,Severe Impairment,Moderate Impairment,Analgesic,Topical,5.0,Variant B,Take on Empty Stomach,50.0,54.1180435942264
+118.65445482007628,0.8556705315762727,20.0,Male,Severe Impairment,Mild Impairment,Chemotherapy,Oral,3.0,,Take on Empty Stomach,45.0,69.22087944813539
+76.27454741085597,0.7658745829548886,57.0,Male,Mild Impairment,Severe Impairment,Antidepressant,IM,1.0,Variant A,None,79.0,750.058452703736
+67.05020441378527,1.4810395400933287,61.0,Male,Severe Impairment,Severe Impairment,Analgesic,IV,1.0,,None,81.0,296.8184609700349
+66.46756911892544,0.8174160894165093,58.0,Female,Moderate Impairment,Mild Impairment,Antibiotic,Topical,0.0,Variant B,Take on Empty Stomach,42.0,511.29390723025404
+60.39905930034812,1.035278273218958,18.0,Male,Moderate Impairment,Mild Impairment,Chemotherapy,Oral,1.0,Normal,None,31.0,118.83946748140184
+76.24531918217633,0.7432465162142968,46.0,Female,Moderate Impairment,Moderate Impairment,Chemotherapy,IM,5.0,Normal,Take with Food,,270.5726389019756
+93.56016722001795,0.9462946973683526,79.0,Male,Moderate Impairment,Mild Impairment,Antibiotic,Oral,0.0,Variant A,Take with Food,58.0,414.75953139773014
+116.1713119326729,1.4740802566780473,42.0,Male,Mild Impairment,Mild Impairment,Chemotherapy,Oral,0.0,Variant B,Take on Empty Stomach,45.0,247.25237965802964
+64.40928439818914,0.8622963898688295,82.0,Female,Mild Impairment,Mild Impairment,Chemotherapy,Oral,5.0,,Take on Empty Stomach,15.0,79.80690143069837
+68.4013701057491,0.9869679561721816,83.0,Male,Moderate Impairment,Normal,Chemotherapy,Oral,0.0,Variant A,Take with Food,62.0,207.49358666304985
+117.31252840202029,1.211778463344137,,Male,Severe Impairment,Severe Impairment,Antidepressant,IV,0.0,Normal,None,40.0,288.43907323466357
+44.737272186483054,1.211816870819296,22.0,Female,Severe Impairment,Normal,Chemotherapy,Oral,1.0,Variant A,Take with Food,34.0,633.2357896943469
+118.8776160067724,1.2324801173042337,49.0,Female,Severe Impairment,Normal,Antidepressant,Topical,2.0,Variant A,None,51.0,
+68.37947057302365,1.1420328138733884,71.0,Male,Severe Impairment,Moderate Impairment,Antihypertensive,IV,0.0,Variant B,Take on Empty Stomach,88.0,772.1355346075742
+89.19563045369209,1.230746327347165,40.0,Male,Moderate Impairment,Moderate Impairment,Chemotherapy,,5.0,Variant B,Take with Food,56.0,113.19648728989814
+64.26396155603692,1.2919413951548475,27.0,Female,Moderate Impairment,Moderate Impairment,Antidepressant,IV,0.0,Variant B,Take with Food,24.0,452.0179972636987
+72.91326579128878,0.9149209167228305,43.0,Male,Moderate Impairment,Normal,Analgesic,IV,0.0,Normal,Take on Empty Stomach,75.0,746.0453076235219
+57.53997241666865,0.9624821062488917,46.0,Female,Mild Impairment,Severe Impairment,Antibiotic,IV,4.0,Normal,Take with Food,,371.31340532585233
+,0.7341180873561053,68.0,Female,Normal,Severe Impairment,Antidepressant,IV,1.0,Normal,Take on Empty Stomach,50.0,758.3869537446595
+117.81834584162694,0.7227602654251198,,Female,Severe Impairment,Severe Impairment,Antibiotic,Topical,1.0,Variant A,Take on Empty Stomach,84.0,294.5446212509112
+88.19307291565875,1.411414019221852,60.0,Female,Moderate Impairment,Moderate Impairment,Chemotherapy,IV,4.0,Normal,None,52.0,262.38122872258805
+46.65360879168961,1.346163209625899,53.0,Male,Severe Impairment,Severe Impairment,Antidepressant,Oral,1.0,Normal,Take with Food,88.0,272.7695167033047
+63.369686934835,1.045245539847619,31.0,Male,Normal,Normal,Antihypertensive,Topical,4.0,Variant B,None,63.0,579.4017548853016
+104.76015637190302,0.9640390126338914,54.0,Female,Normal,Moderate Impairment,Antibiotic,IM,0.0,Variant A,Take on Empty Stomach,43.0,683.555305323534
+80.18912609881237,0.7257983453588125,48.0,,Normal,Normal,Antidepressant,Oral,2.0,Variant B,Take on Empty Stomach,60.0,524.8277711256108
+97.22362344454186,0.8155307944882034,67.0,Male,Normal,Severe Impairment,Antihypertensive,IV,1.0,Normal,None,88.0,676.3357430775206
+46.62306047886811,0.8937932301643429,69.0,Female,Normal,Moderate Impairment,Chemotherapy,Topical,0.0,Variant A,None,21.0,268.91449843461453
+70.93143052009802,1.193073613987288,30.0,Male,Moderate Impairment,Mild Impairment,Antibiotic,IM,2.0,Variant B,Take with Food,2.0,480.94395056044647
+112.16413309398122,0.9545268784203634,41.0,Male,Mild Impairment,Severe Impairment,Antihypertensive,IM,1.0,Variant A,Take on Empty Stomach,52.0,56.0983596372448
+77.7541830650426,1.3985085391643284,79.0,Female,Severe Impairment,Normal,Antihypertensive,Oral,4.0,Variant A,Take on Empty Stomach,31.0,7.098435124418648
+60.2071504071472,0.7068927223189614,29.0,Female,Normal,,Antibiotic,Topical,2.0,Variant A,Take with Food,68.0,80.01052204820235
+43.2059280738628,1.4049923138047404,45.0,Male,Mild Impairment,Severe Impairment,Antibiotic,IV,1.0,Normal,Take on Empty Stomach,21.0,722.1748034352348
+81.6858014843706,0.7415865303712662,20.0,Male,Severe Impairment,Moderate Impairment,Chemotherapy,IM,0.0,Normal,Take on Empty Stomach,19.0,193.3374244474919
+96.10762366994088,,38.0,Female,Mild Impairment,Normal,Analgesic,IV,2.0,Variant A,None,6.0,202.5476019741532
+75.3429553878523,1.3428671614837129,53.0,Female,Normal,Mild Impairment,Chemotherapy,IM,4.0,Normal,Take with Food,57.0,526.0898348060088
+50.597888309268555,1.2681063314635526,51.0,Female,Normal,Severe Impairment,Antidepressant,Oral,1.0,Variant A,,87.0,66.04126232221478
+81.48374667757099,1.464076163422789,20.0,Female,Mild Impairment,Normal,Chemotherapy,IM,2.0,Normal,None,4.0,397.1871049199355
+75.47552314478088,1.0544690276913953,77.0,Male,Moderate Impairment,Mild Impairment,Antidepressant,Oral,5.0,Normal,,60.0,281.7238277300006
+107.04189623654945,1.2270810587427659,84.0,,Normal,Mild Impairment,Antibiotic,Topical,1.0,,Take with Food,27.0,546.0486253325429
+,1.078782301086175,54.0,Male,Moderate Impairment,Severe Impairment,Analgesic,IV,,Variant A,None,5.0,277.5942519408926
+68.53934242753775,1.1991625025787092,37.0,Male,Mild Impairment,Mild Impairment,Antihypertensive,Topical,5.0,Variant B,None,38.0,456.6433926678374
+73.05980900891586,0.7507202338961536,,Male,Normal,Moderate Impairment,Antihypertensive,IM,2.0,Variant A,Take with Food,59.0,775.3421538590452
+56.758503808590895,1.2848704643479327,22.0,Female,Severe Impairment,Mild Impairment,Analgesic,Oral,4.0,Variant B,None,82.0,795.9525874244496
+61.47854109824242,1.2942302277022404,30.0,Male,Moderate Impairment,Normal,Chemotherapy,Oral,0.0,Variant A,Take on Empty Stomach,18.0,200.59168743632662
+104.59476322718557,1.083277310368992,35.0,Male,Mild Impairment,Mild Impairment,Chemotherapy,IV,0.0,Variant A,None,59.0,196.7106175846815
+115.6769591764604,0.9050886951816605,35.0,Male,Normal,Moderate Impairment,Chemotherapy,Topical,0.0,Variant B,Take with Food,81.0,406.1685884799858
+107.24201841278662,0.7923228162442015,43.0,,Normal,Moderate Impairment,Chemotherapy,IM,2.0,Normal,Take with Food,63.0,60.534655816485845
+64.33547990582261,1.162019497144321,31.0,Male,Moderate Impairment,Severe Impairment,Antidepressant,Topical,5.0,Normal,Take on Empty Stomach,43.0,
+89.92482750396913,1.3049773700701255,61.0,Female,,,Antibiotic,IM,4.0,Variant A,None,1.0,200.33273355966176
+81.92123650147603,1.013548024446383,20.0,Female,Mild Impairment,Mild Impairment,Antihypertensive,Topical,5.0,,Take on Empty Stomach,13.0,573.7411035133084
+86.55677921192469,1.4874559195059538,,Male,Moderate Impairment,Moderate Impairment,Antibiotic,,5.0,Variant B,Take on Empty Stomach,10.0,557.8624185397646
+52.511353804866054,0.8130861072821478,75.0,Male,Mild Impairment,Severe Impairment,Antibiotic,IM,5.0,Normal,None,7.0,56.86125279654926
+109.82340140399909,0.9397293967667264,46.0,Male,Moderate Impairment,Mild Impairment,Antidepressant,Topical,2.0,Variant B,Take with Food,21.0,301.33742449364826
+82.55909781353463,0.9962290679440655,84.0,Male,,Severe Impairment,Antihypertensive,Topical,5.0,Normal,None,71.0,396.1722499574199
+75.13441626716289,1.2264154465490766,,Female,Severe Impairment,Moderate Impairment,Antihypertensive,Oral,4.0,Variant B,Take with Food,,607.2647442540068
+83.46405955612089,0.7154330361005756,83.0,Male,Severe Impairment,Normal,Antidepressant,IV,5.0,Variant A,Take on Empty Stomach,45.0,653.8027352253384
+97.98751613538644,1.1325677024134064,30.0,Female,Mild Impairment,Severe Impairment,Antibiotic,Topical,5.0,Variant B,None,33.0,647.8155961081205
+86.06654901760162,1.2178324676277434,27.0,Female,Moderate Impairment,Mild Impairment,Antibiotic,Topical,0.0,Normal,None,48.0,585.0740581236282
+94.73964835211653,1.2881141870789772,68.0,Female,Moderate Impairment,Normal,Antibiotic,IV,2.0,Normal,Take on Empty Stomach,69.0,294.1022328309528
+47.44309050786179,1.002226033877947,75.0,Female,Normal,Moderate Impairment,Analgesic,Oral,1.0,Variant B,Take on Empty Stomach,29.0,666.8121823530118
+64.15778016528999,1.4180751932992017,77.0,Male,Moderate Impairment,Mild Impairment,Antihypertensive,Oral,5.0,Variant B,Take on Empty Stomach,86.0,585.3817699196941
+81.46722073749854,0.8678887081378487,77.0,Male,Moderate Impairment,,Antihypertensive,IM,2.0,Variant B,None,26.0,252.52003166190013
+97.83825646909587,1.1583810902161709,55.0,Male,Moderate Impairment,Normal,Analgesic,Oral,4.0,,None,62.0,337.7401241765494
+89.6457457991012,1.084671289339235,60.0,Female,Severe Impairment,,,Topical,3.0,Variant B,None,40.0,180.0743080898126
+46.05306192627907,1.4735286040766318,62.0,Male,Normal,Moderate Impairment,Chemotherapy,IM,1.0,Variant B,Take on Empty Stomach,81.0,26.721180065607523
+112.43404778698017,0.9266339488269345,41.0,Male,Moderate Impairment,Normal,Antibiotic,,3.0,Normal,Take with Food,44.0,88.85223798195594
+80.62604352208578,,53.0,Male,Normal,Moderate Impairment,Antihypertensive,IV,2.0,Variant A,Take on Empty Stomach,84.0,103.6739498943284
+,1.2579806126155169,77.0,Female,Severe Impairment,Normal,Chemotherapy,Oral,4.0,,None,,295.2582895738789
+117.25227118777727,1.2568863399104528,41.0,Female,Mild Impairment,Normal,Antihypertensive,IM,0.0,Normal,Take on Empty Stomach,57.0,123.16374617808297
+51.3568938197253,0.7360046098589129,67.0,Male,Normal,,Antihypertensive,Topical,1.0,Normal,None,9.0,578.4188047108609
+93.39875876183166,0.96427354942962,50.0,Female,Severe Impairment,Normal,Chemotherapy,Oral,1.0,Normal,Take on Empty Stomach,42.0,576.914485476544
+84.52589963977765,0.8752629224368257,39.0,Female,Mild Impairment,Moderate Impairment,Chemotherapy,IM,3.0,Variant A,Take on Empty Stomach,36.0,201.16364317887718
